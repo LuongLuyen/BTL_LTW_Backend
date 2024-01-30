@@ -1,0 +1,38 @@
+
+[
+    {
+      "maMonHoc": "BAS1107",
+      "tenMonHoc": "Giáo dục thể chất 2",
+      "soTin":"2"
+    },
+    {
+      "maMonHoc": "BAS1151",
+      "tenMonHoc": "Kinh tế chính trị Mác- Lênin",
+      "soTin":"2"
+    },
+    {
+      "maMonHoc": "BAS1157",
+      "tenMonHoc": "Tiếng Anh (Course 1)",
+      "soTin":"4"
+    },
+    {
+      "maMonHoc": "BAS1204",
+      "tenMonHoc": "Giải tích 2",
+      "soTin":"3"
+    },
+    {
+      "maMonHoc": "BAS1224",
+      "tenMonHoc": "Vật lý 1 và thí nghiệm",
+      "soTin":"4"
+    },
+    {
+      "maMonHoc": "ELE1433",
+      "tenMonHoc": "Kỹ thuật số",
+      "soTin":"2"
+    },
+    {
+      "maMonHoc": "INT1155",
+      "tenMonHoc": "Tin học cơ sở 2",
+      "soTin":"2"
+    }
+  ]

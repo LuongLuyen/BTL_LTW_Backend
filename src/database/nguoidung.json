@@ -1,0 +1,4502 @@
+[
+    {
+      "maSinhVien": "ADMIN",
+      "maLop": "ADMIN",
+      "ho": "ADMIN",
+      "ten": "ADMIN"
+    },
+    {
+      "maSinhVien": "B21DCCN001",
+      "maLop": "D21CQCN01-B",
+      "ho": "Nguyễn Đức",
+      "ten": "An"
+    },
+    {
+      "maSinhVien": "B21DCCN002",
+      "maLop": "D21CQCN02-B",
+      "ho": "Nguyễn Khánh",
+      "ten": "An"
+    },
+    {
+      "maSinhVien": "B21DCCN003",
+      "maLop": "D21CQCN03-B",
+      "ho": "Đào Việt",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN004",
+      "maLop": "D21CQCN04-B",
+      "ho": "Đinh Thế",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN005",
+      "maLop": "D21CQCN05-B",
+      "ho": "Nguyễn Quang",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN007",
+      "maLop": "D21CQCN07-B",
+      "ho": "Nguyễn Tiến",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN008",
+      "maLop": "D21CQCN08-B",
+      "ho": "Nguyễn Tuấn",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN009",
+      "maLop": "D21CQCN09-B",
+      "ho": "Phạm Thế",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN010",
+      "maLop": "D21CQCN10-B",
+      "ho": "Phạm Văn",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN011",
+      "maLop": "D21CQCN11-B",
+      "ho": "Phạm Việt",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN012",
+      "maLop": "D21CQCN12-B",
+      "ho": "Phạm Viết Tài",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN013",
+      "maLop": "D21CQCN01-B",
+      "ho": "Trần Đình Lâm",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN014",
+      "maLop": "D21CQCN02-B",
+      "ho": "Lê Xuân",
+      "ten": "Bách"
+    },
+    {
+      "maSinhVien": "B21DCCN017",
+      "maLop": "D21CQCN05-B",
+      "ho": "Nguyễn Đình",
+      "ten": "Ban"
+    },
+    {
+      "maSinhVien": "B21DCCN018",
+      "maLop": "D21CQCN06-B",
+      "ho": "ĐẶNG QUÝ",
+      "ten": "BÌNH"
+    },
+    {
+      "maSinhVien": "B21DCCN019",
+      "maLop": "D21CQCN07-B",
+      "ho": "Nguyễn Tất",
+      "ten": "Bình"
+    },
+    {
+      "maSinhVien": "B21DCCN020",
+      "maLop": "D21CQCN08-B",
+      "ho": "Nguyễn Thái",
+      "ten": "Bình"
+    },
+    {
+      "maSinhVien": "B21DCCN021",
+      "maLop": "D21CQCN09-B",
+      "ho": "Tạ Văn",
+      "ten": "Chiến"
+    },
+    {
+      "maSinhVien": "B21DCCN022",
+      "maLop": "D21CQCN10-B",
+      "ho": "Đỗ Thành",
+      "ten": "Công"
+    },
+    {
+      "maSinhVien": "B21DCCN023",
+      "maLop": "D21CQCN11-B",
+      "ho": "Hồ Trọng",
+      "ten": "Cường"
+    },
+    {
+      "maSinhVien": "B21DCCN024",
+      "maLop": "D21CQCN12-B",
+      "ho": "Triệu Quốc",
+      "ten": "Cường"
+    },
+    {
+      "maSinhVien": "B21DCCN025",
+      "maLop": "D21CQCN01-B",
+      "ho": "Nguyễn Quốc",
+      "ten": "Đại"
+    },
+    {
+      "maSinhVien": "B21DCCN026",
+      "maLop": "D21CQCN02-B",
+      "ho": "Bùi Xuân",
+      "ten": "Đang"
+    },
+    {
+      "maSinhVien": "B21DCCN027",
+      "maLop": "D21CQCN03-B",
+      "ho": "Cam Hải",
+      "ten": "Đăng"
+    },
+    {
+      "maSinhVien": "B21DCCN028",
+      "maLop": "D21CQCN04-B",
+      "ho": "Lê Quang",
+      "ten": "Đạt"
+    },
+    {
+      "maSinhVien": "B21DCCN029",
+      "maLop": "D21CQCN05-B",
+      "ho": "Lưu Hữu",
+      "ten": "Đạt"
+    },
+    {
+      "maSinhVien": "B21DCCN030",
+      "maLop": "D21CQCN06-B",
+      "ho": "Trần Tiến",
+      "ten": "Đạt"
+    },
+    {
+      "maSinhVien": "B21DCCN031",
+      "maLop": "D21CQCN07-B",
+      "ho": "Trịnh Vinh Tuấn",
+      "ten": "Đạt"
+    },
+    {
+      "maSinhVien": "B21DCCN032",
+      "maLop": "D21CQCN08-B",
+      "ho": "Vũ Thành",
+      "ten": "Đạt"
+    },
+    {
+      "maSinhVien": "B21DCCN033",
+      "maLop": "D21CQCN09-B",
+      "ho": "Hoàng Xuân",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN034",
+      "maLop": "D21CQCN10-B",
+      "ho": "Lại Hợp",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN035",
+      "maLop": "D21CQCN11-B",
+      "ho": "Ngô Mạnh",
+      "ten": "Dũng"
+    },
+    {
+      "maSinhVien": "B21DCCN036",
+      "maLop": "D21CQCN12-B",
+      "ho": "Trần Việt",
+      "ten": "Dũng"
+    },
+    {
+      "maSinhVien": "B21DCCN039",
+      "maLop": "D21CQCN03-B",
+      "ho": "Đỗ Tuấn",
+      "ten": "Duy"
+    },
+    {
+      "maSinhVien": "B21DCCN040",
+      "maLop": "D21CQCN04-B",
+      "ho": "Trần Hoàng Tống",
+      "ten": "Giang"
+    },
+    {
+      "maSinhVien": "B21DCCN041",
+      "maLop": "D21CQCN05-B",
+      "ho": "Nguyễn Thu",
+      "ten": "Hà"
+    },
+    {
+      "maSinhVien": "B21DCCN042",
+      "maLop": "D21CQCN06-B",
+      "ho": "Phạm Thu",
+      "ten": "Hà"
+    },
+    {
+      "maSinhVien": "B21DCCN044",
+      "maLop": "D21CQCN08-B",
+      "ho": "Ngô Xuân",
+      "ten": "Hải"
+    },
+    {
+      "maSinhVien": "B21DCCN045",
+      "maLop": "D21CQCN09-B",
+      "ho": "Nguyễn Nam",
+      "ten": "Hải"
+    },
+    {
+      "maSinhVien": "B21DCCN046",
+      "maLop": "D21CQCN10-B",
+      "ho": "Đồng Thị",
+      "ten": "Hiền"
+    },
+    {
+      "maSinhVien": "B21DCCN047",
+      "maLop": "D21CQCN11-B",
+      "ho": "Nguyễn Vinh",
+      "ten": "Hiển"
+    },
+    {
+      "maSinhVien": "B21DCCN048",
+      "maLop": "D21CQCN12-B",
+      "ho": "Nguyễn Tiến",
+      "ten": "Hiệp"
+    },
+    {
+      "maSinhVien": "B21DCCN050",
+      "maLop": "D21CQCN02-B",
+      "ho": "Đinh Ngọc",
+      "ten": "Hiếu"
+    },
+    {
+      "maSinhVien": "B21DCCN051",
+      "maLop": "D21CQCN03-B",
+      "ho": "Hoàng Văn Minh",
+      "ten": "Hiếu"
+    },
+    {
+      "maSinhVien": "B21DCCN052",
+      "maLop": "D21CQCN04-B",
+      "ho": "Kiều Văn",
+      "ten": "Hiếu"
+    },
+    {
+      "maSinhVien": "B21DCCN053",
+      "maLop": "D21CQCN05-B",
+      "ho": "Lê Đức",
+      "ten": "Hiếu"
+    },
+    {
+      "maSinhVien": "B21DCCN054",
+      "maLop": "D21CQCN06-B",
+      "ho": "Nguyễn Đình",
+      "ten": "Hiệu"
+    },
+    {
+      "maSinhVien": "B21DCCN055",
+      "maLop": "D21CQCN07-B",
+      "ho": "Bùi Huy",
+      "ten": "Hoàng"
+    },
+    {
+      "maSinhVien": "B21DCCN056",
+      "maLop": "D21CQCN08-B",
+      "ho": "Lê Khả Việt",
+      "ten": "Hoàng"
+    },
+    {
+      "maSinhVien": "B21DCCN057",
+      "maLop": "D21CQCN09-B",
+      "ho": "Trần Việt",
+      "ten": "Hoàng"
+    },
+    {
+      "maSinhVien": "B21DCCN058",
+      "maLop": "D21CQCN10-B",
+      "ho": "Phạm Mạnh",
+      "ten": "Hùng"
+    },
+    {
+      "maSinhVien": "B21DCCN059",
+      "maLop": "D21CQCN11-B",
+      "ho": "Vũ Lê",
+      "ten": "Hùng"
+    },
+    {
+      "maSinhVien": "B21DCCN060",
+      "maLop": "D21CQCN12-B",
+      "ho": "Nguyễn Việt",
+      "ten": "Hưng"
+    },
+    {
+      "maSinhVien": "B21DCCN061",
+      "maLop": "D21CQCN01-B",
+      "ho": "Đỗ Quang",
+      "ten": "Huy"
+    },
+    {
+      "maSinhVien": "B21DCCN062",
+      "maLop": "D21CQCN02-B",
+      "ho": "Nguyễn Đăng",
+      "ten": "Huy"
+    },
+    {
+      "maSinhVien": "B21DCCN063",
+      "maLop": "D21CQCN03-B",
+      "ho": "Hoàng Đức",
+      "ten": "Huyên"
+    },
+    {
+      "maSinhVien": "B21DCCN064",
+      "maLop": "D21CQCN04-B",
+      "ho": "Trần Thu",
+      "ten": "Huyền"
+    },
+    {
+      "maSinhVien": "B21DCCN066",
+      "maLop": "D21CQCN06-B",
+      "ho": "Ngô Đình",
+      "ten": "Khánh"
+    },
+    {
+      "maSinhVien": "B21DCCN067",
+      "maLop": "D21CQCN07-B",
+      "ho": "Trần Quốc",
+      "ten": "Khánh"
+    },
+    {
+      "maSinhVien": "B21DCCN068",
+      "maLop": "D21CQCN08-B",
+      "ho": "Đỗ Đăng",
+      "ten": "Khoa"
+    },
+    {
+      "maSinhVien": "B21DCCN070",
+      "maLop": "D21CQCN10-B",
+      "ho": "Đỗ Minh",
+      "ten": "Khôi"
+    },
+    {
+      "maSinhVien": "B21DCCN071",
+      "maLop": "D21CQCN11-B",
+      "ho": "Lưu Trung",
+      "ten": "Kiên"
+    },
+    {
+      "maSinhVien": "B21DCCN072",
+      "maLop": "D21CQCN12-B",
+      "ho": "Phạm Văn",
+      "ten": "Lâm"
+    },
+    {
+      "maSinhVien": "B21DCCN073",
+      "maLop": "D21CQCN01-B",
+      "ho": "Trương Quang",
+      "ten": "Lập"
+    },
+    {
+      "maSinhVien": "B21DCCN075",
+      "maLop": "D21CQCN03-B",
+      "ho": "Nguyễn Đức",
+      "ten": "Lộc"
+    },
+    {
+      "maSinhVien": "B21DCCN076",
+      "maLop": "D21CQCN04-B",
+      "ho": "Lê Quý",
+      "ten": "Long"
+    },
+    {
+      "maSinhVien": "B21DCCN077",
+      "maLop": "D21CQCN05-B",
+      "ho": "Nguyễn Ngọc",
+      "ten": "Long"
+    },
+    {
+      "maSinhVien": "B21DCCN079",
+      "maLop": "D21CQCN07-B",
+      "ho": "Nông Thành",
+      "ten": "Long"
+    },
+    {
+      "maSinhVien": "B21DCCN080",
+      "maLop": "D21CQCN08-B",
+      "ho": "Vũ Bảo",
+      "ten": "Long"
+    },
+    {
+      "maSinhVien": "B21DCCN081",
+      "maLop": "D21CQCN09-B",
+      "ho": "Nguyễn Thành",
+      "ten": "Luân"
+    },
+    {
+      "maSinhVien": "B21DCCN082",
+      "maLop": "D21CQCN10-B",
+      "ho": "Chử Thị",
+      "ten": "Mai"
+    },
+    {
+      "maSinhVien": "B21DCCN083",
+      "maLop": "D21CQCN11-B",
+      "ho": "Phạm Thị Ngọc",
+      "ten": "Mai"
+    },
+    {
+      "maSinhVien": "B21DCCN084",
+      "maLop": "D21CQCN12-B",
+      "ho": "Hoàng Ngọc",
+      "ten": "Minh"
+    },
+    {
+      "maSinhVien": "B21DCCN088",
+      "maLop": "D21CQCN04-B",
+      "ho": "Nguyễn Ngọc",
+      "ten": "Minh"
+    },
+    {
+      "maSinhVien": "B21DCCN089",
+      "maLop": "D21CQCN05-B",
+      "ho": "Nguyễn Quang",
+      "ten": "Minh"
+    },
+    {
+      "maSinhVien": "B21DCCN090",
+      "maLop": "D21CQCN06-B",
+      "ho": "Nguyễn Thái",
+      "ten": "Minh"
+    },
+    {
+      "maSinhVien": "B21DCCN092",
+      "maLop": "D21CQCN08-B",
+      "ho": "Phạm Thị Linh",
+      "ten": "Mỹ"
+    },
+    {
+      "maSinhVien": "B21DCCN093",
+      "maLop": "D21CQCN09-B",
+      "ho": "Bùi Hải",
+      "ten": "Nam"
+    },
+    {
+      "maSinhVien": "B21DCCN094",
+      "maLop": "D21CQCN10-B",
+      "ho": "Lại Nguyên",
+      "ten": "Nam"
+    },
+    {
+      "maSinhVien": "B21DCCN095",
+      "maLop": "D21CQCN11-B",
+      "ho": "Nguyễn Hoàng",
+      "ten": "Nam"
+    },
+    {
+      "maSinhVien": "B21DCCN096",
+      "maLop": "D21CQCN12-B",
+      "ho": "Phan Gia",
+      "ten": "Nguyên"
+    },
+    {
+      "maSinhVien": "B21DCCN097",
+      "maLop": "D21CQCN01-B",
+      "ho": "Tống Thị",
+      "ten": "Oanh"
+    },
+    {
+      "maSinhVien": "B21DCCN098",
+      "maLop": "D21CQCN02-B",
+      "ho": "Lê Minh",
+      "ten": "Phúc"
+    },
+    {
+      "maSinhVien": "B21DCCN099",
+      "maLop": "D21CQCN03-B",
+      "ho": "Ngô Quang",
+      "ten": "Phúc"
+    },
+    {
+      "maSinhVien": "B21DCCN100",
+      "maLop": "D21CQCN04-B",
+      "ho": "Trần Tuấn",
+      "ten": "Phúc"
+    },
+    {
+      "maSinhVien": "B21DCCN102",
+      "maLop": "D21CQCN06-B",
+      "ho": "Dương Hoàng",
+      "ten": "Quân"
+    },
+    {
+      "maSinhVien": "B21DCCN103",
+      "maLop": "D21CQCN07-B",
+      "ho": "Nguyễn Anh",
+      "ten": "Quân"
+    },
+    {
+      "maSinhVien": "B21DCCN104",
+      "maLop": "D21CQCN08-B",
+      "ho": "Phạm Việt",
+      "ten": "Quân"
+    },
+    {
+      "maSinhVien": "B21DCCN105",
+      "maLop": "D21CQCN09-B",
+      "ho": "Lâm Đức",
+      "ten": "Quý"
+    },
+    {
+      "maSinhVien": "B21DCCN107",
+      "maLop": "D21CQCN11-B",
+      "ho": "Nguyễn Ngọc",
+      "ten": "Quỳnh"
+    },
+    {
+      "maSinhVien": "B21DCCN109",
+      "maLop": "D21CQCN01-B",
+      "ho": "Nguyễn Trường",
+      "ten": "Sơn"
+    },
+    {
+      "maSinhVien": "B21DCCN110",
+      "maLop": "D21CQCN02-B",
+      "ho": "Phạm Thanh",
+      "ten": "Sơn"
+    },
+    {
+      "maSinhVien": "B21DCCN112",
+      "maLop": "D21CQCN04-B",
+      "ho": "Nguyễn Đức",
+      "ten": "Tâm"
+    },
+    {
+      "maSinhVien": "B21DCCN116",
+      "maLop": "D21CQCN08-B",
+      "ho": "Đỗ Hoành",
+      "ten": "Thông"
+    },
+    {
+      "maSinhVien": "B21DCCN117",
+      "maLop": "D21CQCN09-B",
+      "ho": "Lê Quý",
+      "ten": "Toàn"
+    },
+    {
+      "maSinhVien": "B21DCCN118",
+      "maLop": "D21CQCN10-B",
+      "ho": "Nguyễn Thị",
+      "ten": "Tới"
+    },
+    {
+      "maSinhVien": "B21DCCN120",
+      "maLop": "D21CQCN12-B",
+      "ho": "Mẫn Văn",
+      "ten": "Trường"
+    },
+    {
+      "maSinhVien": "B21DCCN121",
+      "maLop": "D21CQCN01-B",
+      "ho": "Đoàn Viết",
+      "ten": "Tú"
+    },
+    {
+      "maSinhVien": "B21DCCN122",
+      "maLop": "D21CQCN02-B",
+      "ho": "Hoàng Minh",
+      "ten": "Tú"
+    },
+    {
+      "maSinhVien": "B21DCCN123",
+      "maLop": "D21CQCN03-B",
+      "ho": "Nguyễn Quốc",
+      "ten": "Tuấn"
+    },
+    {
+      "maSinhVien": "B21DCCN125",
+      "maLop": "D21CQCN05-B",
+      "ho": "Ngô Trung",
+      "ten": "Tuyên"
+    },
+    {
+      "maSinhVien": "B21DCCN126",
+      "maLop": "D21CQCN06-B",
+      "ho": "La Thảo",
+      "ten": "Vân"
+    },
+    {
+      "maSinhVien": "B21DCCN127",
+      "maLop": "D21CQCN07-B",
+      "ho": "Triệu Đình",
+      "ten": "Viết"
+    },
+    {
+      "maSinhVien": "B21DCCN129",
+      "maLop": "D21CQCN09-B",
+      "ho": "Nguyễn Hải",
+      "ten": "Yến"
+    },
+    {
+      "maSinhVien": "B21DCCN131",
+      "maLop": "D21CQCN11-B",
+      "ho": "Doãn Trường",
+      "ten": "An"
+    },
+    {
+      "maSinhVien": "B21DCCN132",
+      "maLop": "D21CQCN12-B",
+      "ho": "Dương Thùy",
+      "ten": "An"
+    },
+    {
+      "maSinhVien": "B21DCCN133",
+      "maLop": "D21CQCN01-B",
+      "ho": "Nguyễn Bùi Trường",
+      "ten": "An"
+    },
+    {
+      "maSinhVien": "B21DCCN134",
+      "maLop": "D21CQCN02-B",
+      "ho": "Nguyễn Hoàng",
+      "ten": "An"
+    },
+    {
+      "maSinhVien": "B21DCCN135",
+      "maLop": "D21CQCN03-B",
+      "ho": "Nguyễn Văn",
+      "ten": "An"
+    },
+    {
+      "maSinhVien": "B21DCCN136",
+      "maLop": "D21CQCN04-B",
+      "ho": "Phan Hồng",
+      "ten": "An"
+    },
+    {
+      "maSinhVien": "B21DCCN137",
+      "maLop": "D21CQCN05-B",
+      "ho": "Bùi Bá Tiến",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN138",
+      "maLop": "D21CQCN06-B",
+      "ho": "Bùi Việt",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN139",
+      "maLop": "D21CQCN07-B",
+      "ho": "Đàm Minh",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN140",
+      "maLop": "D21CQCN08-B",
+      "ho": "Đặng Minh",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN141",
+      "maLop": "D21CQCN09-B",
+      "ho": "Đặng Ngọc",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN142",
+      "maLop": "D21CQCN10-B",
+      "ho": "Đinh Hoàng",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN143",
+      "maLop": "D21CQCN11-B",
+      "ho": "Đinh Hoàng",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN144",
+      "maLop": "D21CQCN12-B",
+      "ho": "Dương Thế",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN145",
+      "maLop": "D21CQCN01-B",
+      "ho": "Hà Trần Thế",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN146",
+      "maLop": "D21CQCN02-B",
+      "ho": "Hoàng Quốc",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN147",
+      "maLop": "D21CQCN03-B",
+      "ho": "Lê Đăng Hải",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN148",
+      "maLop": "D21CQCN04-B",
+      "ho": "Lưu Ngọc",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN149",
+      "maLop": "D21CQCN05-B",
+      "ho": "Ngô Tuấn",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN150",
+      "maLop": "D21CQCN06-B",
+      "ho": "Nguyễn Bá",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN151",
+      "maLop": "D21CQCN07-B",
+      "ho": "Nguyễn Đức",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN152",
+      "maLop": "D21CQCN08-B",
+      "ho": "Nguyễn Hoàng",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN153",
+      "maLop": "D21CQCN09-B",
+      "ho": "Nguyễn Ngọc",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN154",
+      "maLop": "D21CQCN10-B",
+      "ho": "Nguyễn Thế",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN155",
+      "maLop": "D21CQCN11-B",
+      "ho": "Nguyễn Việt",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN156",
+      "maLop": "D21CQCN12-B",
+      "ho": "Nguyễn Viết Việt",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN157",
+      "maLop": "D21CQCN01-B",
+      "ho": "Nông Triệu Lan",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN158",
+      "maLop": "D21CQCN02-B",
+      "ho": "Phan Tuấn",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN160",
+      "maLop": "D21CQCN04-B",
+      "ho": "Trần Đức",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN161",
+      "maLop": "D21CQCN05-B",
+      "ho": "Trần Duy",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN162",
+      "maLop": "D21CQCN06-B",
+      "ho": "Trần Việt",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN164",
+      "maLop": "D21CQCN08-B",
+      "ho": "Vũ Duy",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN165",
+      "maLop": "D21CQCN09-B",
+      "ho": "Vũ Hải",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN166",
+      "maLop": "D21CQCN10-B",
+      "ho": "Vũ Hoàng",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN167",
+      "maLop": "D21CQCN11-B",
+      "ho": "Vũ Thị Mai",
+      "ten": "Anh"
+    },
+    {
+      "maSinhVien": "B21DCCN168",
+      "maLop": "D21CQCN12-B",
+      "ho": "Đỗ Công",
+      "ten": "Bắc"
+    },
+    {
+      "maSinhVien": "B21DCCN169",
+      "maLop": "D21CQCN01-B",
+      "ho": "Đào Quang",
+      "ten": "Bảo"
+    },
+    {
+      "maSinhVien": "B21DCCN170",
+      "maLop": "D21CQCN02-B",
+      "ho": "Bùi Duy",
+      "ten": "Bình"
+    },
+    {
+      "maSinhVien": "B21DCCN171",
+      "maLop": "D21CQCN03-B",
+      "ho": "Bùi Thanh",
+      "ten": "Bình"
+    },
+    {
+      "maSinhVien": "B21DCCN172",
+      "maLop": "D21CQCN04-B",
+      "ho": "Dương Thái",
+      "ten": "Bình"
+    },
+    {
+      "maSinhVien": "B21DCCN173",
+      "maLop": "D21CQCN05-B",
+      "ho": "Hà Hòa",
+      "ten": "Bình"
+    },
+    {
+      "maSinhVien": "B21DCCN174",
+      "maLop": "D21CQCN06-B",
+      "ho": "Nguyễn Ngọc Tuấn",
+      "ten": "Bình"
+    },
+    {
+      "maSinhVien": "B21DCCN175",
+      "maLop": "D21CQCN07-B",
+      "ho": "Trần Vũ",
+      "ten": "Cảnh"
+    },
+    {
+      "maSinhVien": "B21DCCN176",
+      "maLop": "D21CQCN08-B",
+      "ho": "Nguyễn Văn",
+      "ten": "Cao"
+    },
+    {
+      "maSinhVien": "B21DCCN177",
+      "maLop": "D21CQCN09-B",
+      "ho": "Phạm Quỳnh",
+      "ten": "Chi"
+    },
+    {
+      "maSinhVien": "B21DCCN178",
+      "maLop": "D21CQCN10-B",
+      "ho": "Nguyễn Minh",
+      "ten": "Chí"
+    },
+    {
+      "maSinhVien": "B21DCCN179",
+      "maLop": "D21CQCN11-B",
+      "ho": "Lê Văn",
+      "ten": "Chiến"
+    },
+    {
+      "maSinhVien": "B21DCCN180",
+      "maLop": "D21CQCN12-B",
+      "ho": "Dương Văn",
+      "ten": "Chính"
+    },
+    {
+      "maSinhVien": "B21DCCN181",
+      "maLop": "D21CQCN01-B",
+      "ho": "Phạm Đức",
+      "ten": "Chính"
+    },
+    {
+      "maSinhVien": "B21DCCN182",
+      "maLop": "D21CQCN02-B",
+      "ho": "Ngô Đăng",
+      "ten": "Chúc"
+    },
+    {
+      "maSinhVien": "B21DCCN183",
+      "maLop": "D21CQCN03-B",
+      "ho": "Đinh Tiến",
+      "ten": "Công"
+    },
+    {
+      "maSinhVien": "B21DCCN184",
+      "maLop": "D21CQCN04-B",
+      "ho": "Phạm Minh",
+      "ten": "Công"
+    },
+    {
+      "maSinhVien": "B21DCCN186",
+      "maLop": "D21CQCN06-B",
+      "ho": "Lê Văn",
+      "ten": "Cương"
+    },
+    {
+      "maSinhVien": "B21DCCN187",
+      "maLop": "D21CQCN07-B",
+      "ho": "Bùi Mạnh",
+      "ten": "Cường"
+    },
+    {
+      "maSinhVien": "B21DCCN188",
+      "maLop": "D21CQCN08-B",
+      "ho": "Đặng Minh",
+      "ten": "Cường"
+    },
+    {
+      "maSinhVien": "B21DCCN189",
+      "maLop": "D21CQCN09-B",
+      "ho": "Đỗ Ngọc",
+      "ten": "Cường"
+    },
+    {
+      "maSinhVien": "B21DCCN190",
+      "maLop": "D21CQCN10-B",
+      "ho": "Mai Huy",
+      "ten": "Cường"
+    },
+    {
+      "maSinhVien": "B21DCCN191",
+      "maLop": "D21CQCN11-B",
+      "ho": "Nguyễn Đình Việt",
+      "ten": "Cường"
+    },
+    {
+      "maSinhVien": "B21DCCN192",
+      "maLop": "D21CQCN12-B",
+      "ho": "Phạm Xuân Việt",
+      "ten": "Cường"
+    },
+    {
+      "maSinhVien": "B21DCCN193",
+      "maLop": "D21CQCN01-B",
+      "ho": "Phan Thế",
+      "ten": "Cường"
+    },
+    {
+      "maSinhVien": "B21DCCN194",
+      "maLop": "D21CQCN02-B",
+      "ho": "Trần Phú",
+      "ten": "Cường"
+    },
+    {
+      "maSinhVien": "B21DCCN196",
+      "maLop": "D21CQCN04-B",
+      "ho": "Vũ Xuân",
+      "ten": "Cường"
+    },
+    {
+      "maSinhVien": "B21DCCN197",
+      "maLop": "D21CQCN05-B",
+      "ho": "Đào Hải",
+      "ten": "Đăng"
+    },
+    {
+      "maSinhVien": "B21DCCN198",
+      "maLop": "D21CQCN06-B",
+      "ho": "Đinh Hải",
+      "ten": "Đăng"
+    },
+    {
+      "maSinhVien": "B21DCCN199",
+      "maLop": "D21CQCN07-B",
+      "ho": "Lê Hải",
+      "ten": "Đăng"
+    },
+    {
+      "maSinhVien": "B21DCCN200",
+      "maLop": "D21CQCN08-B",
+      "ho": "Lê Nguyễn Hải",
+      "ten": "Đăng"
+    },
+    {
+      "maSinhVien": "B21DCCN201",
+      "maLop": "D21CQCN09-B",
+      "ho": "Ngô Hải",
+      "ten": "Đăng"
+    },
+    {
+      "maSinhVien": "B21DCCN202",
+      "maLop": "D21CQCN10-B",
+      "ho": "Nguyễn Hải",
+      "ten": "Đăng"
+    },
+    {
+      "maSinhVien": "B21DCCN203",
+      "maLop": "D21CQCN11-B",
+      "ho": "Nguyễn Hải",
+      "ten": "Đăng"
+    },
+    {
+      "maSinhVien": "B21DCCN205",
+      "maLop": "D21CQCN01-B",
+      "ho": "Nguyễn Quang Hải",
+      "ten": "Đăng"
+    },
+    {
+      "maSinhVien": "B21DCCN206",
+      "maLop": "D21CQCN02-B",
+      "ho": "Phạm Hải",
+      "ten": "Đăng"
+    },
+    {
+      "maSinhVien": "B21DCCN207",
+      "maLop": "D21CQCN03-B",
+      "ho": "Trần Hải",
+      "ten": "Đăng"
+    },
+    {
+      "maSinhVien": "B21DCCN208",
+      "maLop": "D21CQCN04-B",
+      "ho": "Nguyễn Hoàng",
+      "ten": "Ðăng"
+    },
+    {
+      "maSinhVien": "B21DCCN209",
+      "maLop": "D21CQCN05-B",
+      "ho": "Tạ Đăng",
+      "ten": "Đạo"
+    },
+    {
+      "maSinhVien": "B21DCCN210",
+      "maLop": "D21CQCN06-B",
+      "ho": "Đinh Bá",
+      "ten": "Đạt"
+    },
+    {
+      "maSinhVien": "B21DCCN211",
+      "maLop": "D21CQCN07-B",
+      "ho": "Hoàng Tiến",
+      "ten": "Đạt"
+    },
+    {
+      "maSinhVien": "B21DCCN212",
+      "maLop": "D21CQCN08-B",
+      "ho": "Lê Hoàng",
+      "ten": "Đạt"
+    },
+    {
+      "maSinhVien": "B21DCCN213",
+      "maLop": "D21CQCN09-B",
+      "ho": "Lê Trọng",
+      "ten": "Đạt"
+    },
+    {
+      "maSinhVien": "B21DCCN214",
+      "maLop": "D21CQCN10-B",
+      "ho": "Lý Thành",
+      "ten": "Đạt"
+    },
+    {
+      "maSinhVien": "B21DCCN215",
+      "maLop": "D21CQCN11-B",
+      "ho": "Mạc Quang",
+      "ten": "Đạt"
+    },
+    {
+      "maSinhVien": "B21DCCN216",
+      "maLop": "D21CQCN12-B",
+      "ho": "Nguyễn Trần",
+      "ten": "Đạt"
+    },
+    {
+      "maSinhVien": "B21DCCN217",
+      "maLop": "D21CQCN01-B",
+      "ho": "Phạm Gia",
+      "ten": "Đạt"
+    },
+    {
+      "maSinhVien": "B21DCCN218",
+      "maLop": "D21CQCN02-B",
+      "ho": "Phạm Văn",
+      "ten": "Đạt"
+    },
+    {
+      "maSinhVien": "B21DCCN219",
+      "maLop": "D21CQCN03-B",
+      "ho": "Tạ Tiến",
+      "ten": "Đạt"
+    },
+    {
+      "maSinhVien": "B21DCCN220",
+      "maLop": "D21CQCN04-B",
+      "ho": "Tiêu Hoàng",
+      "ten": "Đạt"
+    },
+    {
+      "maSinhVien": "B21DCCN221",
+      "maLop": "D21CQCN05-B",
+      "ho": "Trần Hữu",
+      "ten": "Đạt"
+    },
+    {
+      "maSinhVien": "B21DCCN222",
+      "maLop": "D21CQCN06-B",
+      "ho": "Trần Quý",
+      "ten": "Đạt"
+    },
+    {
+      "maSinhVien": "B21DCCN223",
+      "maLop": "D21CQCN07-B",
+      "ho": "Trần Xuân",
+      "ten": "Đạt"
+    },
+    {
+      "maSinhVien": "B21DCCN224",
+      "maLop": "D21CQCN08-B",
+      "ho": "Trương Đỉnh",
+      "ten": "Đạt"
+    },
+    {
+      "maSinhVien": "B21DCCN226",
+      "maLop": "D21CQCN10-B",
+      "ho": "Đặng Tuấn",
+      "ten": "Điệp"
+    },
+    {
+      "maSinhVien": "B21DCCN227",
+      "maLop": "D21CQCN11-B",
+      "ho": "Nguyễn Hoàng",
+      "ten": "Điệp"
+    },
+    {
+      "maSinhVien": "B21DCCN228",
+      "maLop": "D21CQCN12-B",
+      "ho": "Bùi Thị",
+      "ten": "Dinh"
+    },
+    {
+      "maSinhVien": "B21DCCN229",
+      "maLop": "D21CQCN01-B",
+      "ho": "Phạm Hữu",
+      "ten": "Đoàn"
+    },
+    {
+      "maSinhVien": "B21DCCN230",
+      "maLop": "D21CQCN02-B",
+      "ho": "Nguyễn Minh",
+      "ten": "Đông"
+    },
+    {
+      "maSinhVien": "B21DCCN231",
+      "maLop": "D21CQCN03-B",
+      "ho": "Nguyễn Đình",
+      "ten": "Đồng"
+    },
+    {
+      "maSinhVien": "B21DCCN232",
+      "maLop": "D21CQCN04-B",
+      "ho": "Vũ Kết",
+      "ten": "Đồng"
+    },
+    {
+      "maSinhVien": "B21DCCN233",
+      "maLop": "D21CQCN05-B",
+      "ho": "Dương Văn",
+      "ten": "Dự"
+    },
+    {
+      "maSinhVien": "B21DCCN234",
+      "maLop": "D21CQCN06-B",
+      "ho": "Cao Hồng",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN235",
+      "maLop": "D21CQCN07-B",
+      "ho": "Cao Việt",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN236",
+      "maLop": "D21CQCN08-B",
+      "ho": "Đặng Minh",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN237",
+      "maLop": "D21CQCN09-B",
+      "ho": "Đinh Trần",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN238",
+      "maLop": "D21CQCN10-B",
+      "ho": "Dương Anh",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN239",
+      "maLop": "D21CQCN11-B",
+      "ho": "Dương Anh",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN240",
+      "maLop": "D21CQCN12-B",
+      "ho": "Hoàng Hữu",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN241",
+      "maLop": "D21CQCN01-B",
+      "ho": "Lê Anh",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN242",
+      "maLop": "D21CQCN02-B",
+      "ho": "Lê Trí",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN243",
+      "maLop": "D21CQCN03-B",
+      "ho": "Lê Trung",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN244",
+      "maLop": "D21CQCN04-B",
+      "ho": "Nguyễn Anh",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN245",
+      "maLop": "D21CQCN05-B",
+      "ho": "Nguyễn Anh",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN246",
+      "maLop": "D21CQCN06-B",
+      "ho": "Nguyễn Minh",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN247",
+      "maLop": "D21CQCN07-B",
+      "ho": "Nguyễn Minh",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN248",
+      "maLop": "D21CQCN08-B",
+      "ho": "Nguyễn Minh",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN250",
+      "maLop": "D21CQCN10-B",
+      "ho": "Nguyễn Quý",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN251",
+      "maLop": "D21CQCN11-B",
+      "ho": "Nguyễn Thế",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN252",
+      "maLop": "D21CQCN12-B",
+      "ho": "Nguyễn Trọng",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN253",
+      "maLop": "D21CQCN01-B",
+      "ho": "Nguyễn Văn",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN254",
+      "maLop": "D21CQCN02-B",
+      "ho": "Phạm Minh",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN255",
+      "maLop": "D21CQCN03-B",
+      "ho": "Phạm Văn",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN256",
+      "maLop": "D21CQCN04-B",
+      "ho": "Trần Minh",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN257",
+      "maLop": "D21CQCN05-B",
+      "ho": "Trịnh Lê",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN258",
+      "maLop": "D21CQCN06-B",
+      "ho": "Trương Xuân",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN259",
+      "maLop": "D21CQCN07-B",
+      "ho": "Vũ Hữu",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN260",
+      "maLop": "D21CQCN08-B",
+      "ho": "Nguyễn Thùy",
+      "ten": "Dung"
+    },
+    {
+      "maSinhVien": "B21DCCN261",
+      "maLop": "D21CQCN09-B",
+      "ho": "Phạm Thị Thùy",
+      "ten": "Dung"
+    },
+    {
+      "maSinhVien": "B21DCCN262",
+      "maLop": "D21CQCN10-B",
+      "ho": "Bùi Tuấn",
+      "ten": "Dũng"
+    },
+    {
+      "maSinhVien": "B21DCCN263",
+      "maLop": "D21CQCN11-B",
+      "ho": "Đặng Tiến",
+      "ten": "Dũng"
+    },
+    {
+      "maSinhVien": "B21DCCN264",
+      "maLop": "D21CQCN12-B",
+      "ho": "Đặng Tiến",
+      "ten": "Dũng"
+    },
+    {
+      "maSinhVien": "B21DCCN265",
+      "maLop": "D21CQCN01-B",
+      "ho": "Đỗ Mạnh",
+      "ten": "Dũng"
+    },
+    {
+      "maSinhVien": "B21DCCN266",
+      "maLop": "D21CQCN02-B",
+      "ho": "Hà Văn",
+      "ten": "Dũng"
+    },
+    {
+      "maSinhVien": "B21DCCN267",
+      "maLop": "D21CQCN03-B",
+      "ho": "Hồ Tiến",
+      "ten": "Dũng"
+    },
+    {
+      "maSinhVien": "B21DCCN268",
+      "maLop": "D21CQCN04-B",
+      "ho": "Hoàng Mạnh",
+      "ten": "Dũng"
+    },
+    {
+      "maSinhVien": "B21DCCN269",
+      "maLop": "D21CQCN05-B",
+      "ho": "Hoàng Minh",
+      "ten": "Dũng"
+    },
+    {
+      "maSinhVien": "B21DCCN270",
+      "maLop": "D21CQCN06-B",
+      "ho": "Hoàng Trung",
+      "ten": "Dũng"
+    },
+    {
+      "maSinhVien": "B21DCCN271",
+      "maLop": "D21CQCN07-B",
+      "ho": "Hoàng Việt",
+      "ten": "Dũng"
+    },
+    {
+      "maSinhVien": "B21DCCN272",
+      "maLop": "D21CQCN08-B",
+      "ho": "Lương Tiến",
+      "ten": "Dũng"
+    },
+    {
+      "maSinhVien": "B21DCCN273",
+      "maLop": "D21CQCN09-B",
+      "ho": "Lưu Tiến",
+      "ten": "Dũng"
+    },
+    {
+      "maSinhVien": "B21DCCN274",
+      "maLop": "D21CQCN10-B",
+      "ho": "Nguyễn Đức",
+      "ten": "Dũng"
+    },
+    {
+      "maSinhVien": "B21DCCN275",
+      "maLop": "D21CQCN11-B",
+      "ho": "Nguyễn Thế",
+      "ten": "Dũng"
+    },
+    {
+      "maSinhVien": "B21DCCN276",
+      "maLop": "D21CQCN12-B",
+      "ho": "Nguyễn Tiến",
+      "ten": "Dũng"
+    },
+    {
+      "maSinhVien": "B21DCCN277",
+      "maLop": "D21CQCN01-B",
+      "ho": "Nguyễn Văn",
+      "ten": "Dũng"
+    },
+    {
+      "maSinhVien": "B21DCCN278",
+      "maLop": "D21CQCN02-B",
+      "ho": "Nguyễn Văn",
+      "ten": "Dũng"
+    },
+    {
+      "maSinhVien": "B21DCCN280",
+      "maLop": "D21CQCN04-B",
+      "ho": "Đỗ Hoàng",
+      "ten": "Dương"
+    },
+    {
+      "maSinhVien": "B21DCCN281",
+      "maLop": "D21CQCN05-B",
+      "ho": "Lê Đình",
+      "ten": "Dương"
+    },
+    {
+      "maSinhVien": "B21DCCN282",
+      "maLop": "D21CQCN06-B",
+      "ho": "Lê Huy",
+      "ten": "Dương"
+    },
+    {
+      "maSinhVien": "B21DCCN283",
+      "maLop": "D21CQCN07-B",
+      "ho": "Lò Văn",
+      "ten": "Dương"
+    },
+    {
+      "maSinhVien": "B21DCCN284",
+      "maLop": "D21CQCN08-B",
+      "ho": "Nguyễn Hải",
+      "ten": "Dương"
+    },
+    {
+      "maSinhVien": "B21DCCN285",
+      "maLop": "D21CQCN09-B",
+      "ho": "Nguyễn Hoàng",
+      "ten": "Dương"
+    },
+    {
+      "maSinhVien": "B21DCCN286",
+      "maLop": "D21CQCN10-B",
+      "ho": "Nguyễn Ngọc Hải",
+      "ten": "Dương"
+    },
+    {
+      "maSinhVien": "B21DCCN288",
+      "maLop": "D21CQCN12-B",
+      "ho": "Nguyễn Tùng",
+      "ten": "Dương"
+    },
+    {
+      "maSinhVien": "B21DCCN289",
+      "maLop": "D21CQCN01-B",
+      "ho": "Trần Thái Bình",
+      "ten": "Dương"
+    },
+    {
+      "maSinhVien": "B21DCCN290",
+      "maLop": "D21CQCN02-B",
+      "ho": "Lâm Tiến",
+      "ten": "Dưỡng"
+    },
+    {
+      "maSinhVien": "B21DCCN291",
+      "maLop": "D21CQCN03-B",
+      "ho": "Hà Tiến",
+      "ten": "Duy"
+    },
+    {
+      "maSinhVien": "B21DCCN292",
+      "maLop": "D21CQCN04-B",
+      "ho": "Hoàng Bá",
+      "ten": "Duy"
+    },
+    {
+      "maSinhVien": "B21DCCN293",
+      "maLop": "D21CQCN05-B",
+      "ho": "Hoàng Trần",
+      "ten": "Duy"
+    },
+    {
+      "maSinhVien": "B21DCCN294",
+      "maLop": "D21CQCN06-B",
+      "ho": "Hoàng Văn",
+      "ten": "Duy"
+    },
+    {
+      "maSinhVien": "B21DCCN295",
+      "maLop": "D21CQCN07-B",
+      "ho": "Lê Khánh",
+      "ten": "Duy"
+    },
+    {
+      "maSinhVien": "B21DCCN296",
+      "maLop": "D21CQCN08-B",
+      "ho": "Lê Văn",
+      "ten": "Duy"
+    },
+    {
+      "maSinhVien": "B21DCCN297",
+      "maLop": "D21CQCN09-B",
+      "ho": "Ngô Hoàng",
+      "ten": "Duy"
+    },
+    {
+      "maSinhVien": "B21DCCN298",
+      "maLop": "D21CQCN10-B",
+      "ho": "Nguyễn Anh",
+      "ten": "Duy"
+    },
+    {
+      "maSinhVien": "B21DCCN300",
+      "maLop": "D21CQCN12-B",
+      "ho": "Nguyễn Mạnh",
+      "ten": "Duy"
+    },
+    {
+      "maSinhVien": "B21DCCN301",
+      "maLop": "D21CQCN01-B",
+      "ho": "Nguyễn Quang",
+      "ten": "Duy"
+    },
+    {
+      "maSinhVien": "B21DCCN302",
+      "maLop": "D21CQCN02-B",
+      "ho": "Vũ Công",
+      "ten": "Duy"
+    },
+    {
+      "maSinhVien": "B21DCCN303",
+      "maLop": "D21CQCN03-B",
+      "ho": "Vũ Quang",
+      "ten": "Duy"
+    },
+    {
+      "maSinhVien": "B21DCCN304",
+      "maLop": "D21CQCN04-B",
+      "ho": "Nguyễn Minh",
+      "ten": "Giang"
+    },
+    {
+      "maSinhVien": "B21DCCN305",
+      "maLop": "D21CQCN05-B",
+      "ho": "Nguyễn Trường",
+      "ten": "Giang"
+    },
+    {
+      "maSinhVien": "B21DCCN306",
+      "maLop": "D21CQCN06-B",
+      "ho": "Nguyễn Trường",
+      "ten": "Giang"
+    },
+    {
+      "maSinhVien": "B21DCCN307",
+      "maLop": "D21CQCN07-B",
+      "ho": "Phạm Tuấn",
+      "ten": "Giang"
+    },
+    {
+      "maSinhVien": "B21DCCN308",
+      "maLop": "D21CQCN08-B",
+      "ho": "Trần Hương",
+      "ten": "Giang"
+    },
+    {
+      "maSinhVien": "B21DCCN309",
+      "maLop": "D21CQCN09-B",
+      "ho": "Hoàng Thu",
+      "ten": "Hà"
+    },
+    {
+      "maSinhVien": "B21DCCN310",
+      "maLop": "D21CQCN10-B",
+      "ho": "Lương TháI",
+      "ten": "Hà"
+    },
+    {
+      "maSinhVien": "B21DCCN311",
+      "maLop": "D21CQCN11-B",
+      "ho": "Nguyễn Ngọc",
+      "ten": "Hà"
+    },
+    {
+      "maSinhVien": "B21DCCN312",
+      "maLop": "D21CQCN12-B",
+      "ho": "Nguyễn Quang",
+      "ten": "Hà"
+    },
+    {
+      "maSinhVien": "B21DCCN313",
+      "maLop": "D21CQCN01-B",
+      "ho": "Nguyễn Việt",
+      "ten": "Hà"
+    },
+    {
+      "maSinhVien": "B21DCCN314",
+      "maLop": "D21CQCN02-B",
+      "ho": "Phạm Quang",
+      "ten": "Hà"
+    },
+    {
+      "maSinhVien": "B21DCCN315",
+      "maLop": "D21CQCN03-B",
+      "ho": "Trần Thu",
+      "ten": "Hà"
+    },
+    {
+      "maSinhVien": "B21DCCN316",
+      "maLop": "D21CQCN04-B",
+      "ho": "Vũ Hoàng",
+      "ten": "Hà"
+    },
+    {
+      "maSinhVien": "B21DCCN317",
+      "maLop": "D21CQCN05-B",
+      "ho": "Lê Minh",
+      "ten": "Hải"
+    },
+    {
+      "maSinhVien": "B21DCCN318",
+      "maLop": "D21CQCN06-B",
+      "ho": "Mông Thanh",
+      "ten": "Hải"
+    },
+    {
+      "maSinhVien": "B21DCCN319",
+      "maLop": "D21CQCN07-B",
+      "ho": "Nguyễn Hoàng",
+      "ten": "Hải"
+    },
+    {
+      "maSinhVien": "B21DCCN321",
+      "maLop": "D21CQCN09-B",
+      "ho": "Nguyễn Thanh",
+      "ten": "Hải"
+    },
+    {
+      "maSinhVien": "B21DCCN322",
+      "maLop": "D21CQCN10-B",
+      "ho": "Phạm Đình",
+      "ten": "Hải"
+    },
+    {
+      "maSinhVien": "B21DCCN323",
+      "maLop": "D21CQCN11-B",
+      "ho": "Trần Duy",
+      "ten": "Hải"
+    },
+    {
+      "maSinhVien": "B21DCCN324",
+      "maLop": "D21CQCN12-B",
+      "ho": "Ngô Đăng",
+      "ten": "Hán"
+    },
+    {
+      "maSinhVien": "B21DCCN325",
+      "maLop": "D21CQCN01-B",
+      "ho": "Liễu Hoàng",
+      "ten": "Hân"
+    },
+    {
+      "maSinhVien": "B21DCCN326",
+      "maLop": "D21CQCN02-B",
+      "ho": "Nguyễn Văn",
+      "ten": "Hân"
+    },
+    {
+      "maSinhVien": "B21DCCN327",
+      "maLop": "D21CQCN03-B",
+      "ho": "Nguyễn Thị Thu",
+      "ten": "Hằng"
+    },
+    {
+      "maSinhVien": "B21DCCN328",
+      "maLop": "D21CQCN04-B",
+      "ho": "Phạm Thị Thanh",
+      "ten": "Hằng"
+    },
+    {
+      "maSinhVien": "B21DCCN329",
+      "maLop": "D21CQCN05-B",
+      "ho": "Nguyễn Văn",
+      "ten": "Hạnh"
+    },
+    {
+      "maSinhVien": "B21DCCN330",
+      "maLop": "D21CQCN06-B",
+      "ho": "Thân Xuân",
+      "ten": "Hạnh"
+    },
+    {
+      "maSinhVien": "B21DCCN332",
+      "maLop": "D21CQCN08-B",
+      "ho": "Lê Đình",
+      "ten": "Hảo"
+    },
+    {
+      "maSinhVien": "B21DCCN333",
+      "maLop": "D21CQCN09-B",
+      "ho": "Nguyễn Đình",
+      "ten": "Hậu"
+    },
+    {
+      "maSinhVien": "B21DCCN334",
+      "maLop": "D21CQCN10-B",
+      "ho": "Vũ Văn",
+      "ten": "Hậu"
+    },
+    {
+      "maSinhVien": "B21DCCN335",
+      "maLop": "D21CQCN11-B",
+      "ho": "Nguyễn Thị Thu",
+      "ten": "Hiền"
+    },
+    {
+      "maSinhVien": "B21DCCN336",
+      "maLop": "D21CQCN12-B",
+      "ho": "Nguyễn Thị Thu",
+      "ten": "Hiền"
+    },
+    {
+      "maSinhVien": "B21DCCN337",
+      "maLop": "D21CQCN01-B",
+      "ho": "Trần Thị",
+      "ten": "Hiền"
+    },
+    {
+      "maSinhVien": "B21DCCN338",
+      "maLop": "D21CQCN02-B",
+      "ho": "Đào Văn",
+      "ten": "Hiển"
+    },
+    {
+      "maSinhVien": "B21DCCN339",
+      "maLop": "D21CQCN03-B",
+      "ho": "Đoàn Minh",
+      "ten": "Hiển"
+    },
+    {
+      "maSinhVien": "B21DCCN340",
+      "maLop": "D21CQCN04-B",
+      "ho": "Bùi Duy",
+      "ten": "Hiệp"
+    },
+    {
+      "maSinhVien": "B21DCCN341",
+      "maLop": "D21CQCN05-B",
+      "ho": "Hoàng Đình",
+      "ten": "Hiệp"
+    },
+    {
+      "maSinhVien": "B21DCCN342",
+      "maLop": "D21CQCN06-B",
+      "ho": "La Đức",
+      "ten": "Hiệp"
+    },
+    {
+      "maSinhVien": "B21DCCN343",
+      "maLop": "D21CQCN07-B",
+      "ho": "Nguyễn Hoàng",
+      "ten": "Hiệp"
+    },
+    {
+      "maSinhVien": "B21DCCN344",
+      "maLop": "D21CQCN08-B",
+      "ho": "Nguyễn Tiến",
+      "ten": "Hiệp"
+    },
+    {
+      "maSinhVien": "B21DCCN345",
+      "maLop": "D21CQCN09-B",
+      "ho": "Phùng Trần",
+      "ten": "Hiệp"
+    },
+    {
+      "maSinhVien": "B21DCCN346",
+      "maLop": "D21CQCN10-B",
+      "ho": "Trần Hoàng",
+      "ten": "Hiệp"
+    },
+    {
+      "maSinhVien": "B21DCCN347",
+      "maLop": "D21CQCN11-B",
+      "ho": "Cao Bá",
+      "ten": "Hiếu"
+    },
+    {
+      "maSinhVien": "B21DCCN348",
+      "maLop": "D21CQCN12-B",
+      "ho": "Chu Minh",
+      "ten": "Hiếu"
+    },
+    {
+      "maSinhVien": "B21DCCN350",
+      "maLop": "D21CQCN02-B",
+      "ho": "Đinh Trung",
+      "ten": "Hiếu"
+    },
+    {
+      "maSinhVien": "B21DCCN351",
+      "maLop": "D21CQCN03-B",
+      "ho": "Hoàng Đình",
+      "ten": "Hiếu"
+    },
+    {
+      "maSinhVien": "B21DCCN352",
+      "maLop": "D21CQCN04-B",
+      "ho": "Hoàng Gia",
+      "ten": "Hiếu"
+    },
+    {
+      "maSinhVien": "B21DCCN354",
+      "maLop": "D21CQCN06-B",
+      "ho": "Lâm Trung",
+      "ten": "Hiếu"
+    },
+    {
+      "maSinhVien": "B21DCCN356",
+      "maLop": "D21CQCN08-B",
+      "ho": "Lê Trung",
+      "ten": "Hiếu"
+    },
+    {
+      "maSinhVien": "B21DCCN357",
+      "maLop": "D21CQCN09-B",
+      "ho": "Lê Trung",
+      "ten": "Hiếu"
+    },
+    {
+      "maSinhVien": "B21DCCN358",
+      "maLop": "D21CQCN10-B",
+      "ho": "Lưu Minh",
+      "ten": "Hiếu"
+    },
+    {
+      "maSinhVien": "B21DCCN359",
+      "maLop": "D21CQCN11-B",
+      "ho": "Mai Xuân",
+      "ten": "Hiếu"
+    },
+    {
+      "maSinhVien": "B21DCCN360",
+      "maLop": "D21CQCN12-B",
+      "ho": "Ngô Quốc",
+      "ten": "Hiếu"
+    },
+    {
+      "maSinhVien": "B21DCCN361",
+      "maLop": "D21CQCN01-B",
+      "ho": "Nguyễn Đức",
+      "ten": "Hiếu"
+    },
+    {
+      "maSinhVien": "B21DCCN362",
+      "maLop": "D21CQCN02-B",
+      "ho": "Nguyễn Hà",
+      "ten": "Hiếu"
+    },
+    {
+      "maSinhVien": "B21DCCN363",
+      "maLop": "D21CQCN03-B",
+      "ho": "Nguyễn Hữu",
+      "ten": "Hiếu"
+    },
+    {
+      "maSinhVien": "B21DCCN364",
+      "maLop": "D21CQCN04-B",
+      "ho": "Nguyễn Mạnh",
+      "ten": "Hiếu"
+    },
+    {
+      "maSinhVien": "B21DCCN365",
+      "maLop": "D21CQCN05-B",
+      "ho": "Nguyễn Minh",
+      "ten": "Hiếu"
+    },
+    {
+      "maSinhVien": "B21DCCN366",
+      "maLop": "D21CQCN06-B",
+      "ho": "Nguyễn Văn",
+      "ten": "Hiếu"
+    },
+    {
+      "maSinhVien": "B21DCCN368",
+      "maLop": "D21CQCN08-B",
+      "ho": "Phùng Minh",
+      "ten": "Hiếu"
+    },
+    {
+      "maSinhVien": "B21DCCN369",
+      "maLop": "D21CQCN09-B",
+      "ho": "Trần Công",
+      "ten": "Hiếu"
+    },
+    {
+      "maSinhVien": "B21DCCN370",
+      "maLop": "D21CQCN10-B",
+      "ho": "Trần Minh",
+      "ten": "Hiếu"
+    },
+    {
+      "maSinhVien": "B21DCCN371",
+      "maLop": "D21CQCN11-B",
+      "ho": "Trần Trung",
+      "ten": "Hiếu"
+    },
+    {
+      "maSinhVien": "B21DCCN372",
+      "maLop": "D21CQCN12-B",
+      "ho": "Trịnh Trung",
+      "ten": "Hiếu"
+    },
+    {
+      "maSinhVien": "B21DCCN373",
+      "maLop": "D21CQCN01-B",
+      "ho": "Vũ Văn",
+      "ten": "Hiếu"
+    },
+    {
+      "maSinhVien": "B21DCCN374",
+      "maLop": "D21CQCN02-B",
+      "ho": "Ngô Thị Phương",
+      "ten": "Hoa"
+    },
+    {
+      "maSinhVien": "B21DCCN375",
+      "maLop": "D21CQCN03-B",
+      "ho": "Cù Xuân",
+      "ten": "Hoà"
+    },
+    {
+      "maSinhVien": "B21DCCN376",
+      "maLop": "D21CQCN04-B",
+      "ho": "Nguyễn Thiên",
+      "ten": "Hóa"
+    },
+    {
+      "maSinhVien": "B21DCCN377",
+      "maLop": "D21CQCN05-B",
+      "ho": "Hoàng Quốc",
+      "ten": "Hòa"
+    },
+    {
+      "maSinhVien": "B21DCCN378",
+      "maLop": "D21CQCN06-B",
+      "ho": "Lương Mạnh",
+      "ten": "Hòa"
+    },
+    {
+      "maSinhVien": "B21DCCN379",
+      "maLop": "D21CQCN07-B",
+      "ho": "Nguyễn Hữu Quang",
+      "ten": "Hòa"
+    },
+    {
+      "maSinhVien": "B21DCCN380",
+      "maLop": "D21CQCN08-B",
+      "ho": "Nguyễn Văn",
+      "ten": "Hòa"
+    },
+    {
+      "maSinhVien": "B21DCCN381",
+      "maLop": "D21CQCN09-B",
+      "ho": "Phạm Huy",
+      "ten": "Hòa"
+    },
+    {
+      "maSinhVien": "B21DCCN382",
+      "maLop": "D21CQCN10-B",
+      "ho": "Vũ Thanh",
+      "ten": "Hoàn"
+    },
+    {
+      "maSinhVien": "B21DCCN383",
+      "maLop": "D21CQCN11-B",
+      "ho": "Bùi Huy",
+      "ten": "Hoàng"
+    },
+    {
+      "maSinhVien": "B21DCCN384",
+      "maLop": "D21CQCN12-B",
+      "ho": "Dương Việt",
+      "ten": "Hoàng"
+    },
+    {
+      "maSinhVien": "B21DCCN385",
+      "maLop": "D21CQCN01-B",
+      "ho": "Hà Văn",
+      "ten": "Hoàng"
+    },
+    {
+      "maSinhVien": "B21DCCN386",
+      "maLop": "D21CQCN02-B",
+      "ho": "Hà Việt",
+      "ten": "Hoàng"
+    },
+    {
+      "maSinhVien": "B21DCCN388",
+      "maLop": "D21CQCN04-B",
+      "ho": "Nguyễn Duy",
+      "ten": "Hoàng"
+    },
+    {
+      "maSinhVien": "B21DCCN389",
+      "maLop": "D21CQCN05-B",
+      "ho": "Nguyễn Huy",
+      "ten": "Hoàng"
+    },
+    {
+      "maSinhVien": "B21DCCN390",
+      "maLop": "D21CQCN06-B",
+      "ho": "Nguyễn Minh",
+      "ten": "Hoàng"
+    },
+    {
+      "maSinhVien": "B21DCCN391",
+      "maLop": "D21CQCN07-B",
+      "ho": "Nguyễn Việt",
+      "ten": "Hoàng"
+    },
+    {
+      "maSinhVien": "B21DCCN392",
+      "maLop": "D21CQCN08-B",
+      "ho": "Phạm Văn",
+      "ten": "Hoàng"
+    },
+    {
+      "maSinhVien": "B21DCCN393",
+      "maLop": "D21CQCN09-B",
+      "ho": "Phạm Việt",
+      "ten": "Hoàng"
+    },
+    {
+      "maSinhVien": "B21DCCN394",
+      "maLop": "D21CQCN10-B",
+      "ho": "Thái Văn",
+      "ten": "Hoàng"
+    },
+    {
+      "maSinhVien": "B21DCCN396",
+      "maLop": "D21CQCN12-B",
+      "ho": "Trần Việt",
+      "ten": "Hoàng"
+    },
+    {
+      "maSinhVien": "B21DCCN397",
+      "maLop": "D21CQCN01-B",
+      "ho": "Trịnh Nguyên",
+      "ten": "Hoàng"
+    },
+    {
+      "maSinhVien": "B21DCCN398",
+      "maLop": "D21CQCN02-B",
+      "ho": "Vũ Huy",
+      "ten": "Hoàng"
+    },
+    {
+      "maSinhVien": "B21DCCN399",
+      "maLop": "D21CQCN03-B",
+      "ho": "Vũ Huy",
+      "ten": "Hoàng"
+    },
+    {
+      "maSinhVien": "B21DCCN400",
+      "maLop": "D21CQCN04-B",
+      "ho": "Nguyễn Minh",
+      "ten": "Hồng"
+    },
+    {
+      "maSinhVien": "B21DCCN401",
+      "maLop": "D21CQCN05-B",
+      "ho": "Nguyễn Văn",
+      "ten": "Hồng"
+    },
+    {
+      "maSinhVien": "B21DCCN402",
+      "maLop": "D21CQCN06-B",
+      "ho": "Nguyễn Anh",
+      "ten": "Huân"
+    },
+    {
+      "maSinhVien": "B21DCCN403",
+      "maLop": "D21CQCN07-B",
+      "ho": "Nguyễn Công",
+      "ten": "Huân"
+    },
+    {
+      "maSinhVien": "B21DCCN404",
+      "maLop": "D21CQCN08-B",
+      "ho": "Nguyễn Văn",
+      "ten": "Huân"
+    },
+    {
+      "maSinhVien": "B21DCCN405",
+      "maLop": "D21CQCN09-B",
+      "ho": "Nguyễn Chí",
+      "ten": "Huấn"
+    },
+    {
+      "maSinhVien": "B21DCCN406",
+      "maLop": "D21CQCN10-B",
+      "ho": "Bùi Tiến",
+      "ten": "Hùng"
+    },
+    {
+      "maSinhVien": "B21DCCN407",
+      "maLop": "D21CQCN11-B",
+      "ho": "Đỗ Mạnh",
+      "ten": "Hùng"
+    },
+    {
+      "maSinhVien": "B21DCCN408",
+      "maLop": "D21CQCN12-B",
+      "ho": "Đỗ Mạnh",
+      "ten": "Hùng"
+    },
+    {
+      "maSinhVien": "B21DCCN409",
+      "maLop": "D21CQCN01-B",
+      "ho": "Dương Xuân",
+      "ten": "Hùng"
+    },
+    {
+      "maSinhVien": "B21DCCN410",
+      "maLop": "D21CQCN02-B",
+      "ho": "Lương Việt",
+      "ten": "Hùng"
+    },
+    {
+      "maSinhVien": "B21DCCN411",
+      "maLop": "D21CQCN03-B",
+      "ho": "Mai Văn",
+      "ten": "Hùng"
+    },
+    {
+      "maSinhVien": "B21DCCN412",
+      "maLop": "D21CQCN04-B",
+      "ho": "Nguyễn Mạnh",
+      "ten": "Hùng"
+    },
+    {
+      "maSinhVien": "B21DCCN413",
+      "maLop": "D21CQCN05-B",
+      "ho": "Nguyễn Mạnh",
+      "ten": "Hùng"
+    },
+    {
+      "maSinhVien": "B21DCCN414",
+      "maLop": "D21CQCN06-B",
+      "ho": "Nguyễn Sinh",
+      "ten": "Hùng"
+    },
+    {
+      "maSinhVien": "B21DCCN415",
+      "maLop": "D21CQCN07-B",
+      "ho": "Nguyễn Tiến",
+      "ten": "Hùng"
+    },
+    {
+      "maSinhVien": "B21DCCN416",
+      "maLop": "D21CQCN08-B",
+      "ho": "Nguyễn Văn",
+      "ten": "Hùng"
+    },
+    {
+      "maSinhVien": "B21DCCN417",
+      "maLop": "D21CQCN09-B",
+      "ho": "Nguyễn Văn",
+      "ten": "Hùng"
+    },
+    {
+      "maSinhVien": "B21DCCN418",
+      "maLop": "D21CQCN10-B",
+      "ho": "Tống Văn",
+      "ten": "Hùng"
+    },
+    {
+      "maSinhVien": "B21DCCN420",
+      "maLop": "D21CQCN12-B",
+      "ho": "Đào Gia",
+      "ten": "Hưng"
+    },
+    {
+      "maSinhVien": "B21DCCN421",
+      "maLop": "D21CQCN01-B",
+      "ho": "Hoàng Tiến",
+      "ten": "Hưng"
+    },
+    {
+      "maSinhVien": "B21DCCN422",
+      "maLop": "D21CQCN02-B",
+      "ho": "Hoàng Việt",
+      "ten": "Hưng"
+    },
+    {
+      "maSinhVien": "B21DCCN423",
+      "maLop": "D21CQCN03-B",
+      "ho": "Lê Đình",
+      "ten": "Hưng"
+    },
+    {
+      "maSinhVien": "B21DCCN424",
+      "maLop": "D21CQCN04-B",
+      "ho": "Lê Gia",
+      "ten": "Hưng"
+    },
+    {
+      "maSinhVien": "B21DCCN425",
+      "maLop": "D21CQCN05-B",
+      "ho": "Nguyễn Việt",
+      "ten": "Hưng"
+    },
+    {
+      "maSinhVien": "B21DCCN426",
+      "maLop": "D21CQCN06-B",
+      "ho": "Phạm Gia",
+      "ten": "Hưng"
+    },
+    {
+      "maSinhVien": "B21DCCN427",
+      "maLop": "D21CQCN07-B",
+      "ho": "Bùi Thế",
+      "ten": "Hướng"
+    },
+    {
+      "maSinhVien": "B21DCCN429",
+      "maLop": "D21CQCN09-B",
+      "ho": "Nguyễn Quang",
+      "ten": "Hưởng"
+    },
+    {
+      "maSinhVien": "B21DCCN430",
+      "maLop": "D21CQCN10-B",
+      "ho": "Bùi Xuân",
+      "ten": "Huy"
+    },
+    {
+      "maSinhVien": "B21DCCN431",
+      "maLop": "D21CQCN11-B",
+      "ho": "Đỗ Đắc",
+      "ten": "Huy"
+    },
+    {
+      "maSinhVien": "B21DCCN432",
+      "maLop": "D21CQCN12-B",
+      "ho": "Đỗ Quang",
+      "ten": "Huy"
+    },
+    {
+      "maSinhVien": "B21DCCN433",
+      "maLop": "D21CQCN01-B",
+      "ho": "Dương Quang",
+      "ten": "Huy"
+    },
+    {
+      "maSinhVien": "B21DCCN434",
+      "maLop": "D21CQCN02-B",
+      "ho": "Nguyễn Ngọc Quang",
+      "ten": "Huy"
+    },
+    {
+      "maSinhVien": "B21DCCN435",
+      "maLop": "D21CQCN03-B",
+      "ho": "Nguyễn Quang",
+      "ten": "Huy"
+    },
+    {
+      "maSinhVien": "B21DCCN436",
+      "maLop": "D21CQCN04-B",
+      "ho": "Nguyễn Quang",
+      "ten": "Huy"
+    },
+    {
+      "maSinhVien": "B21DCCN437",
+      "maLop": "D21CQCN05-B",
+      "ho": "Nguyễn Việt",
+      "ten": "Huy"
+    },
+    {
+      "maSinhVien": "B21DCCN438",
+      "maLop": "D21CQCN06-B",
+      "ho": "Nguyễn Xuân",
+      "ten": "Huy"
+    },
+    {
+      "maSinhVien": "B21DCCN439",
+      "maLop": "D21CQCN07-B",
+      "ho": "Phạm Quang",
+      "ten": "Huy"
+    },
+    {
+      "maSinhVien": "B21DCCN440",
+      "maLop": "D21CQCN08-B",
+      "ho": "Trần Đức",
+      "ten": "Huy"
+    },
+    {
+      "maSinhVien": "B21DCCN441",
+      "maLop": "D21CQCN09-B",
+      "ho": "Trần Quang",
+      "ten": "Huy"
+    },
+    {
+      "maSinhVien": "B21DCCN442",
+      "maLop": "D21CQCN10-B",
+      "ho": "Trần Văn",
+      "ten": "Huy"
+    },
+    {
+      "maSinhVien": "B21DCCN443",
+      "maLop": "D21CQCN11-B",
+      "ho": "Trịnh Văn",
+      "ten": "Huy"
+    },
+    {
+      "maSinhVien": "B21DCCN444",
+      "maLop": "D21CQCN12-B",
+      "ho": "Vũ Quốc",
+      "ten": "Huy"
+    },
+    {
+      "maSinhVien": "B21DCCN445",
+      "maLop": "D21CQCN01-B",
+      "ho": "Nguyễn Thu",
+      "ten": "Huyền"
+    },
+    {
+      "maSinhVien": "B21DCCN446",
+      "maLop": "D21CQCN02-B",
+      "ho": "Phạm Thị Khánh",
+      "ten": "Huyền"
+    },
+    {
+      "maSinhVien": "B21DCCN447",
+      "maLop": "D21CQCN03-B",
+      "ho": "Nguyễn Bá Hoàng",
+      "ten": "Huynh"
+    },
+    {
+      "maSinhVien": "B21DCCN448",
+      "maLop": "D21CQCN04-B",
+      "ho": "Tống Phúc",
+      "ten": "Khang"
+    },
+    {
+      "maSinhVien": "B21DCCN449",
+      "maLop": "D21CQCN05-B",
+      "ho": "Nguyễn Văn",
+      "ten": "Khanh"
+    },
+    {
+      "maSinhVien": "B21DCCN450",
+      "maLop": "D21CQCN06-B",
+      "ho": "Đặng Ngọc",
+      "ten": "Khánh"
+    },
+    {
+      "maSinhVien": "B21DCCN451",
+      "maLop": "D21CQCN07-B",
+      "ho": "Lê Duy",
+      "ten": "Khánh"
+    },
+    {
+      "maSinhVien": "B21DCCN452",
+      "maLop": "D21CQCN08-B",
+      "ho": "Lê Quốc",
+      "ten": "Khánh"
+    },
+    {
+      "maSinhVien": "B21DCCN453",
+      "maLop": "D21CQCN09-B",
+      "ho": "Nguyễn Duy",
+      "ten": "Khánh"
+    },
+    {
+      "maSinhVien": "B21DCCN454",
+      "maLop": "D21CQCN10-B",
+      "ho": "Nguyễn Lê Quốc",
+      "ten": "Khánh"
+    },
+    {
+      "maSinhVien": "B21DCCN455",
+      "maLop": "D21CQCN11-B",
+      "ho": "Nguyễn Nam",
+      "ten": "Khánh"
+    },
+    {
+      "maSinhVien": "B21DCCN456",
+      "maLop": "D21CQCN12-B",
+      "ho": "Nguyễn Quốc",
+      "ten": "Khánh"
+    },
+    {
+      "maSinhVien": "B21DCCN457",
+      "maLop": "D21CQCN01-B",
+      "ho": "Trần Quốc",
+      "ten": "Khánh"
+    },
+    {
+      "maSinhVien": "B21DCCN458",
+      "maLop": "D21CQCN02-B",
+      "ho": "Nguyễn Việt",
+      "ten": "Khiêm"
+    },
+    {
+      "maSinhVien": "B21DCCN459",
+      "maLop": "D21CQCN03-B",
+      "ho": "Nguyễn Gia",
+      "ten": "Khiên"
+    },
+    {
+      "maSinhVien": "B21DCCN460",
+      "maLop": "D21CQCN04-B",
+      "ho": "Đặng Việt",
+      "ten": "Khôi"
+    },
+    {
+      "maSinhVien": "B21DCCN461",
+      "maLop": "D21CQCN05-B",
+      "ho": "Hoàng Minh",
+      "ten": "Khương"
+    },
+    {
+      "maSinhVien": "B21DCCN462",
+      "maLop": "D21CQCN06-B",
+      "ho": "Đào Danh",
+      "ten": "Kiên"
+    },
+    {
+      "maSinhVien": "B21DCCN464",
+      "maLop": "D21CQCN08-B",
+      "ho": "Nguyễn Sỹ Huy",
+      "ten": "Kiên"
+    },
+    {
+      "maSinhVien": "B21DCCN465",
+      "maLop": "D21CQCN09-B",
+      "ho": "Nguyễn Văn",
+      "ten": "Kiên"
+    },
+    {
+      "maSinhVien": "B21DCCN466",
+      "maLop": "D21CQCN10-B",
+      "ho": "Trần Trung",
+      "ten": "Kiên"
+    },
+    {
+      "maSinhVien": "B21DCCN467",
+      "maLop": "D21CQCN11-B",
+      "ho": "Trần Trung",
+      "ten": "Kiên"
+    },
+    {
+      "maSinhVien": "B21DCCN469",
+      "maLop": "D21CQCN01-B",
+      "ho": "Vũ Minh",
+      "ten": "Kiên"
+    },
+    {
+      "maSinhVien": "B21DCCN470",
+      "maLop": "D21CQCN02-B",
+      "ho": "Đỗ Tuấn",
+      "ten": "Kiệt"
+    },
+    {
+      "maSinhVien": "B21DCCN471",
+      "maLop": "D21CQCN03-B",
+      "ho": "Nguyễn Anh",
+      "ten": "Kiệt"
+    },
+    {
+      "maSinhVien": "B21DCCN472",
+      "maLop": "D21CQCN04-B",
+      "ho": "Nguyễn Tuấn",
+      "ten": "Kiệt"
+    },
+    {
+      "maSinhVien": "B21DCCN473",
+      "maLop": "D21CQCN05-B",
+      "ho": "Nguyễn Trọng",
+      "ten": "Kính"
+    },
+    {
+      "maSinhVien": "B21DCCN474",
+      "maLop": "D21CQCN06-B",
+      "ho": "Nguyễn Thị Thanh",
+      "ten": "Lam"
+    },
+    {
+      "maSinhVien": "B21DCCN475",
+      "maLop": "D21CQCN07-B",
+      "ho": "Đào Tùng",
+      "ten": "Lâm"
+    },
+    {
+      "maSinhVien": "B21DCCN476",
+      "maLop": "D21CQCN08-B",
+      "ho": "Lại Trung",
+      "ten": "Lâm"
+    },
+    {
+      "maSinhVien": "B21DCCN478",
+      "maLop": "D21CQCN10-B",
+      "ho": "Vũ Thị",
+      "ten": "Lan"
+    },
+    {
+      "maSinhVien": "B21DCCN479",
+      "maLop": "D21CQCN11-B",
+      "ho": "Vũ Trung",
+      "ten": "Lập"
+    },
+    {
+      "maSinhVien": "B21DCCN480",
+      "maLop": "D21CQCN12-B",
+      "ho": "Mai Văn",
+      "ten": "Lịch"
+    },
+    {
+      "maSinhVien": "B21DCCN481",
+      "maLop": "D21CQCN01-B",
+      "ho": "Nguyễn Minh",
+      "ten": "Liêm"
+    },
+    {
+      "maSinhVien": "B21DCCN482",
+      "maLop": "D21CQCN02-B",
+      "ho": "Hoàng Ngọc",
+      "ten": "Linh"
+    },
+    {
+      "maSinhVien": "B21DCCN483",
+      "maLop": "D21CQCN03-B",
+      "ho": "Nguyễn Giang",
+      "ten": "Linh"
+    },
+    {
+      "maSinhVien": "B21DCCN484",
+      "maLop": "D21CQCN04-B",
+      "ho": "Nguyễn Khánh",
+      "ten": "Linh"
+    },
+    {
+      "maSinhVien": "B21DCCN485",
+      "maLop": "D21CQCN05-B",
+      "ho": "Nguyễn Thảo",
+      "ten": "Linh"
+    },
+    {
+      "maSinhVien": "B21DCCN486",
+      "maLop": "D21CQCN06-B",
+      "ho": "Nguyễn Thế",
+      "ten": "Linh"
+    },
+    {
+      "maSinhVien": "B21DCCN487",
+      "maLop": "D21CQCN07-B",
+      "ho": "Nguyễn Thị Thùy",
+      "ten": "Linh"
+    },
+    {
+      "maSinhVien": "B21DCCN488",
+      "maLop": "D21CQCN08-B",
+      "ho": "Phạm Ngọc",
+      "ten": "Linh"
+    },
+    {
+      "maSinhVien": "B21DCCN489",
+      "maLop": "D21CQCN09-B",
+      "ho": "Vũ Hữu Hoài",
+      "ten": "Linh"
+    },
+    {
+      "maSinhVien": "B21DCCN490",
+      "maLop": "D21CQCN10-B",
+      "ho": "Hoàng Thị Mai",
+      "ten": "Loan"
+    },
+    {
+      "maSinhVien": "B21DCCN491",
+      "maLop": "D21CQCN11-B",
+      "ho": "Ngô Tuấn",
+      "ten": "Lộc"
+    },
+    {
+      "maSinhVien": "B21DCCN492",
+      "maLop": "D21CQCN12-B",
+      "ho": "Trần Đức",
+      "ten": "Lộc"
+    },
+    {
+      "maSinhVien": "B21DCCN493",
+      "maLop": "D21CQCN01-B",
+      "ho": "Dương Duy",
+      "ten": "Long"
+    },
+    {
+      "maSinhVien": "B21DCCN494",
+      "maLop": "D21CQCN02-B",
+      "ho": "Lê Đức",
+      "ten": "Long"
+    },
+    {
+      "maSinhVien": "B21DCCN495",
+      "maLop": "D21CQCN03-B",
+      "ho": "Nguyễn Châu",
+      "ten": "Long"
+    },
+    {
+      "maSinhVien": "B21DCCN496",
+      "maLop": "D21CQCN04-B",
+      "ho": "Nguyễn Duy Thành",
+      "ten": "Long"
+    },
+    {
+      "maSinhVien": "B21DCCN498",
+      "maLop": "D21CQCN06-B",
+      "ho": "Nguyễn Thành",
+      "ten": "Long"
+    },
+    {
+      "maSinhVien": "B21DCCN499",
+      "maLop": "D21CQCN07-B",
+      "ho": "Nguyễn Thành",
+      "ten": "Long"
+    },
+    {
+      "maSinhVien": "B21DCCN500",
+      "maLop": "D21CQCN08-B",
+      "ho": "Nguyễn Vũ Bảo",
+      "ten": "Long"
+    },
+    {
+      "maSinhVien": "B21DCCN501",
+      "maLop": "D21CQCN09-B",
+      "ho": "Trần Duy",
+      "ten": "Long"
+    },
+    {
+      "maSinhVien": "B21DCCN502",
+      "maLop": "D21CQCN10-B",
+      "ho": "Vũ Thành",
+      "ten": "Luân"
+    },
+    {
+      "maSinhVien": "B21DCCN503",
+      "maLop": "D21CQCN11-B",
+      "ho": "Hoàng Văn",
+      "ten": "Lực"
+    },
+    {
+      "maSinhVien": "B21DCCN504",
+      "maLop": "D21CQCN12-B",
+      "ho": "Lương Văn",
+      "ten": "Luyện"
+    },
+    {
+      "maSinhVien": "B21DCCN505",
+      "maLop": "D21CQCN01-B",
+      "ho": "Cao Trần Thảo",
+      "ten": "Ly"
+    },
+    {
+      "maSinhVien": "B21DCCN506",
+      "maLop": "D21CQCN02-B",
+      "ho": "Nguyễn Thị Cẩm",
+      "ten": "Ly"
+    },
+    {
+      "maSinhVien": "B21DCCN507",
+      "maLop": "D21CQCN03-B",
+      "ho": "Nguyễn Thị Mai",
+      "ten": "Ly"
+    },
+    {
+      "maSinhVien": "B21DCCN508",
+      "maLop": "D21CQCN04-B",
+      "ho": "Đặng Thị Thanh",
+      "ten": "Mai"
+    },
+    {
+      "maSinhVien": "B21DCCN509",
+      "maLop": "D21CQCN05-B",
+      "ho": "Hỏa Ngọc",
+      "ten": "Mai"
+    },
+    {
+      "maSinhVien": "B21DCCN510",
+      "maLop": "D21CQCN06-B",
+      "ho": "Chu Văn",
+      "ten": "Mạnh"
+    },
+    {
+      "maSinhVien": "B21DCCN511",
+      "maLop": "D21CQCN07-B",
+      "ho": "Nguyễn Đình",
+      "ten": "Mạnh"
+    },
+    {
+      "maSinhVien": "B21DCCN512",
+      "maLop": "D21CQCN08-B",
+      "ho": "Nguyễn Duy",
+      "ten": "Mạnh"
+    },
+    {
+      "maSinhVien": "B21DCCN513",
+      "maLop": "D21CQCN09-B",
+      "ho": "Nguyễn Hoàng",
+      "ten": "Mạnh"
+    },
+    {
+      "maSinhVien": "B21DCCN514",
+      "maLop": "D21CQCN10-B",
+      "ho": "Nguyễn Hoàng",
+      "ten": "Mạnh"
+    },
+    {
+      "maSinhVien": "B21DCCN515",
+      "maLop": "D21CQCN11-B",
+      "ho": "Nguyễn Hữu",
+      "ten": "Mạnh"
+    },
+    {
+      "maSinhVien": "B21DCCN516",
+      "maLop": "D21CQCN12-B",
+      "ho": "Nguyễn Trung",
+      "ten": "Mạnh"
+    },
+    {
+      "maSinhVien": "B21DCCN517",
+      "maLop": "D21CQCN01-B",
+      "ho": "Nguyễn Văn",
+      "ten": "Mạnh"
+    },
+    {
+      "maSinhVien": "B21DCCN518",
+      "maLop": "D21CQCN02-B",
+      "ho": "Nguyễn Thị Trà",
+      "ten": "Mi"
+    },
+    {
+      "maSinhVien": "B21DCCN519",
+      "maLop": "D21CQCN03-B",
+      "ho": "Bùi Phúc",
+      "ten": "Minh"
+    },
+    {
+      "maSinhVien": "B21DCCN520",
+      "maLop": "D21CQCN04-B",
+      "ho": "Đặng Nguyệt",
+      "ten": "Minh"
+    },
+    {
+      "maSinhVien": "B21DCCN521",
+      "maLop": "D21CQCN05-B",
+      "ho": "Đỗ Nhật",
+      "ten": "Minh"
+    },
+    {
+      "maSinhVien": "B21DCCN522",
+      "maLop": "D21CQCN06-B",
+      "ho": "Đồng Hoàng",
+      "ten": "Minh"
+    },
+    {
+      "maSinhVien": "B21DCCN523",
+      "maLop": "D21CQCN07-B",
+      "ho": "Hà Quang",
+      "ten": "Minh"
+    },
+    {
+      "maSinhVien": "B21DCCN524",
+      "maLop": "D21CQCN08-B",
+      "ho": "Hồ Trọng Nhật",
+      "ten": "Minh"
+    },
+    {
+      "maSinhVien": "B21DCCN525",
+      "maLop": "D21CQCN09-B",
+      "ho": "Nguyễn Chí",
+      "ten": "Minh"
+    },
+    {
+      "maSinhVien": "B21DCCN526",
+      "maLop": "D21CQCN10-B",
+      "ho": "Nguyễn Hữu Tú",
+      "ten": "Minh"
+    },
+    {
+      "maSinhVien": "B21DCCN527",
+      "maLop": "D21CQCN11-B",
+      "ho": "Nguyễn Nhật",
+      "ten": "Minh"
+    },
+    {
+      "maSinhVien": "B21DCCN528",
+      "maLop": "D21CQCN12-B",
+      "ho": "Nguyễn Nhật",
+      "ten": "Minh"
+    },
+    {
+      "maSinhVien": "B21DCCN529",
+      "maLop": "D21CQCN01-B",
+      "ho": "Nguyễn Nhật",
+      "ten": "Minh"
+    },
+    {
+      "maSinhVien": "B21DCCN530",
+      "maLop": "D21CQCN02-B",
+      "ho": "Nguyễn Quang",
+      "ten": "Minh"
+    },
+    {
+      "maSinhVien": "B21DCCN531",
+      "maLop": "D21CQCN03-B",
+      "ho": "Nguyễn Quang",
+      "ten": "Minh"
+    },
+    {
+      "maSinhVien": "B21DCCN532",
+      "maLop": "D21CQCN04-B",
+      "ho": "Nguyễn Văn",
+      "ten": "Minh"
+    },
+    {
+      "maSinhVien": "B21DCCN533",
+      "maLop": "D21CQCN05-B",
+      "ho": "Phạm Công",
+      "ten": "Minh"
+    },
+    {
+      "maSinhVien": "B21DCCN535",
+      "maLop": "D21CQCN07-B",
+      "ho": "Phan Ngọc",
+      "ten": "Minh"
+    },
+    {
+      "maSinhVien": "B21DCCN537",
+      "maLop": "D21CQCN09-B",
+      "ho": "Nguyễn Văn",
+      "ten": "Mùi"
+    },
+    {
+      "maSinhVien": "B21DCCN538",
+      "maLop": "D21CQCN10-B",
+      "ho": "Chu Đức",
+      "ten": "Nam"
+    },
+    {
+      "maSinhVien": "B21DCCN539",
+      "maLop": "D21CQCN11-B",
+      "ho": "Chu Hoài",
+      "ten": "Nam"
+    },
+    {
+      "maSinhVien": "B21DCCN540",
+      "maLop": "D21CQCN12-B",
+      "ho": "Chu Tuấn",
+      "ten": "Nam"
+    },
+    {
+      "maSinhVien": "B21DCCN541",
+      "maLop": "D21CQCN01-B",
+      "ho": "Đỗ Văn",
+      "ten": "Nam"
+    },
+    {
+      "maSinhVien": "B21DCCN542",
+      "maLop": "D21CQCN02-B",
+      "ho": "Doãn Phương",
+      "ten": "Nam"
+    },
+    {
+      "maSinhVien": "B21DCCN544",
+      "maLop": "D21CQCN04-B",
+      "ho": "Hoàng Đình",
+      "ten": "Nam"
+    },
+    {
+      "maSinhVien": "B21DCCN545",
+      "maLop": "D21CQCN05-B",
+      "ho": "Lâm Văn",
+      "ten": "Nam"
+    },
+    {
+      "maSinhVien": "B21DCCN546",
+      "maLop": "D21CQCN06-B",
+      "ho": "Lê Đoàn Ngọc",
+      "ten": "Nam"
+    },
+    {
+      "maSinhVien": "B21DCCN547",
+      "maLop": "D21CQCN07-B",
+      "ho": "Lê Đức",
+      "ten": "Nam"
+    },
+    {
+      "maSinhVien": "B21DCCN548",
+      "maLop": "D21CQCN08-B",
+      "ho": "Nguyễn Đình",
+      "ten": "Nam"
+    },
+    {
+      "maSinhVien": "B21DCCN549",
+      "maLop": "D21CQCN09-B",
+      "ho": "Nguyễn Hải",
+      "ten": "Nam"
+    },
+    {
+      "maSinhVien": "B21DCCN550",
+      "maLop": "D21CQCN10-B",
+      "ho": "Nguyễn Hoàng",
+      "ten": "Nam"
+    },
+    {
+      "maSinhVien": "B21DCCN551",
+      "maLop": "D21CQCN11-B",
+      "ho": "Nguyễn Hoàng",
+      "ten": "Nam"
+    },
+    {
+      "maSinhVien": "B21DCCN552",
+      "maLop": "D21CQCN12-B",
+      "ho": "Nguyễn Viết",
+      "ten": "Nam"
+    },
+    {
+      "maSinhVien": "B21DCCN553",
+      "maLop": "D21CQCN01-B",
+      "ho": "Nguyễn Viết",
+      "ten": "Nam"
+    },
+    {
+      "maSinhVien": "B21DCCN554",
+      "maLop": "D21CQCN02-B",
+      "ho": "Phạm Hoài",
+      "ten": "Nam"
+    },
+    {
+      "maSinhVien": "B21DCCN555",
+      "maLop": "D21CQCN03-B",
+      "ho": "Phạm Phương",
+      "ten": "Nam"
+    },
+    {
+      "maSinhVien": "B21DCCN556",
+      "maLop": "D21CQCN04-B",
+      "ho": "Tống Quang",
+      "ten": "Nam"
+    },
+    {
+      "maSinhVien": "B21DCCN557",
+      "maLop": "D21CQCN05-B",
+      "ho": "Trần Nhật",
+      "ten": "Nam"
+    },
+    {
+      "maSinhVien": "B21DCCN558",
+      "maLop": "D21CQCN06-B",
+      "ho": "Trần Văn",
+      "ten": "Nam"
+    },
+    {
+      "maSinhVien": "B21DCCN559",
+      "maLop": "D21CQCN07-B",
+      "ho": "Trịnh Thành",
+      "ten": "Nam"
+    },
+    {
+      "maSinhVien": "B21DCCN560",
+      "maLop": "D21CQCN08-B",
+      "ho": "Vũ Tuấn",
+      "ten": "Nam"
+    },
+    {
+      "maSinhVien": "B21DCCN561",
+      "maLop": "D21CQCN09-B",
+      "ho": "Nguyễn Thị",
+      "ten": "Nga"
+    },
+    {
+      "maSinhVien": "B21DCCN562",
+      "maLop": "D21CQCN10-B",
+      "ho": "Nguyễn Thị Thu",
+      "ten": "Ngân"
+    },
+    {
+      "maSinhVien": "B21DCCN563",
+      "maLop": "D21CQCN11-B",
+      "ho": "Trần Thị Kim",
+      "ten": "Ngân"
+    },
+    {
+      "maSinhVien": "B21DCCN564",
+      "maLop": "D21CQCN12-B",
+      "ho": "Đặng Thị Hồng",
+      "ten": "Ngát"
+    },
+    {
+      "maSinhVien": "B21DCCN565",
+      "maLop": "D21CQCN01-B",
+      "ho": "Nguyễn Kim Trọng",
+      "ten": "Nghĩa"
+    },
+    {
+      "maSinhVien": "B21DCCN566",
+      "maLop": "D21CQCN02-B",
+      "ho": "Nguyễn Thị Bảo",
+      "ten": "Ngọc"
+    },
+    {
+      "maSinhVien": "B21DCCN567",
+      "maLop": "D21CQCN03-B",
+      "ho": "Nguyễn Văn",
+      "ten": "Ngọc"
+    },
+    {
+      "maSinhVien": "B21DCCN568",
+      "maLop": "D21CQCN04-B",
+      "ho": "Trần Hữu",
+      "ten": "Ngọc"
+    },
+    {
+      "maSinhVien": "B21DCCN569",
+      "maLop": "D21CQCN05-B",
+      "ho": "Trịnh Tân",
+      "ten": "Nguyên"
+    },
+    {
+      "maSinhVien": "B21DCCN570",
+      "maLop": "D21CQCN06-B",
+      "ho": "Trương Linh",
+      "ten": "Nguyên"
+    },
+    {
+      "maSinhVien": "B21DCCN571",
+      "maLop": "D21CQCN07-B",
+      "ho": "Đinh Thị Thu",
+      "ten": "Nguyệt"
+    },
+    {
+      "maSinhVien": "B21DCCN572",
+      "maLop": "D21CQCN08-B",
+      "ho": "Lê Phan",
+      "ten": "Nhâm"
+    },
+    {
+      "maSinhVien": "B21DCCN573",
+      "maLop": "D21CQCN09-B",
+      "ho": "Bùi Trọng",
+      "ten": "Nhân"
+    },
+    {
+      "maSinhVien": "B21DCCN574",
+      "maLop": "D21CQCN10-B",
+      "ho": "Vũ Đức",
+      "ten": "Nhân"
+    },
+    {
+      "maSinhVien": "B21DCCN575",
+      "maLop": "D21CQCN11-B",
+      "ho": "Lê Huy Hồng",
+      "ten": "Nhật"
+    },
+    {
+      "maSinhVien": "B21DCCN576",
+      "maLop": "D21CQCN12-B",
+      "ho": "Vũ Thị Yến",
+      "ten": "Nhi"
+    },
+    {
+      "maSinhVien": "B21DCCN577",
+      "maLop": "D21CQCN01-B",
+      "ho": "Văn Đình",
+      "ten": "Nhiều"
+    },
+    {
+      "maSinhVien": "B21DCCN578",
+      "maLop": "D21CQCN02-B",
+      "ho": "Hồ Văn",
+      "ten": "Nhuận"
+    },
+    {
+      "maSinhVien": "B21DCCN579",
+      "maLop": "D21CQCN03-B",
+      "ho": "Trần Thị Phương",
+      "ten": "Nhung"
+    },
+    {
+      "maSinhVien": "B21DCCN580",
+      "maLop": "D21CQCN04-B",
+      "ho": "Nguyễn Thị",
+      "ten": "Phấn"
+    },
+    {
+      "maSinhVien": "B21DCCN581",
+      "maLop": "D21CQCN05-B",
+      "ho": "Nguyễn Tấn",
+      "ten": "Phát"
+    },
+    {
+      "maSinhVien": "B21DCCN582",
+      "maLop": "D21CQCN06-B",
+      "ho": "Đỗ Hồng",
+      "ten": "Phi"
+    },
+    {
+      "maSinhVien": "B21DCCN583",
+      "maLop": "D21CQCN07-B",
+      "ho": "Vũ Hoàng",
+      "ten": "Phi"
+    },
+    {
+      "maSinhVien": "B21DCCN584",
+      "maLop": "D21CQCN08-B",
+      "ho": "Bùi Hùng",
+      "ten": "Phong"
+    },
+    {
+      "maSinhVien": "B21DCCN585",
+      "maLop": "D21CQCN09-B",
+      "ho": "Đỗ Đức",
+      "ten": "Phong"
+    },
+    {
+      "maSinhVien": "B21DCCN586",
+      "maLop": "D21CQCN10-B",
+      "ho": "Nguyễn Bá",
+      "ten": "Phong"
+    },
+    {
+      "maSinhVien": "B21DCCN587",
+      "maLop": "D21CQCN11-B",
+      "ho": "Nguyễn Đắc",
+      "ten": "Phong"
+    },
+    {
+      "maSinhVien": "B21DCCN588",
+      "maLop": "D21CQCN12-B",
+      "ho": "Nguyễn Thanh",
+      "ten": "Phong"
+    },
+    {
+      "maSinhVien": "B21DCCN589",
+      "maLop": "D21CQCN01-B",
+      "ho": "Nguyễn Xuân",
+      "ten": "Phong"
+    },
+    {
+      "maSinhVien": "B21DCCN590",
+      "maLop": "D21CQCN02-B",
+      "ho": "Vũ Danh",
+      "ten": "Phong"
+    },
+    {
+      "maSinhVien": "B21DCCN591",
+      "maLop": "D21CQCN03-B",
+      "ho": "Giang Minh",
+      "ten": "Phú"
+    },
+    {
+      "maSinhVien": "B21DCCN592",
+      "maLop": "D21CQCN04-B",
+      "ho": "Nguyễn Văn",
+      "ten": "Phú"
+    },
+    {
+      "maSinhVien": "B21DCCN593",
+      "maLop": "D21CQCN05-B",
+      "ho": "Lê Đình",
+      "ten": "Phúc"
+    },
+    {
+      "maSinhVien": "B21DCCN594",
+      "maLop": "D21CQCN06-B",
+      "ho": "Nguyễn Hoàng",
+      "ten": "Phúc"
+    },
+    {
+      "maSinhVien": "B21DCCN595",
+      "maLop": "D21CQCN07-B",
+      "ho": "Võ Văn Bảo",
+      "ten": "Phúc"
+    },
+    {
+      "maSinhVien": "B21DCCN596",
+      "maLop": "D21CQCN08-B",
+      "ho": "Lê Minh",
+      "ten": "Phụng"
+    },
+    {
+      "maSinhVien": "B21DCCN597",
+      "maLop": "D21CQCN09-B",
+      "ho": "Ngô Đình",
+      "ten": "Phước"
+    },
+    {
+      "maSinhVien": "B21DCCN600",
+      "maLop": "D21CQCN12-B",
+      "ho": "Lê Trọng",
+      "ten": "Phương"
+    },
+    {
+      "maSinhVien": "B21DCCN601",
+      "maLop": "D21CQCN01-B",
+      "ho": "Nguyễn Mai",
+      "ten": "Phương"
+    },
+    {
+      "maSinhVien": "B21DCCN602",
+      "maLop": "D21CQCN02-B",
+      "ho": "Tống Xuân",
+      "ten": "Phương"
+    },
+    {
+      "maSinhVien": "B21DCCN603",
+      "maLop": "D21CQCN03-B",
+      "ho": "Trần Lệ",
+      "ten": "Phương"
+    },
+    {
+      "maSinhVien": "B21DCCN604",
+      "maLop": "D21CQCN04-B",
+      "ho": "Đàm Tiến",
+      "ten": "Quân"
+    },
+    {
+      "maSinhVien": "B21DCCN605",
+      "maLop": "D21CQCN05-B",
+      "ho": "Đậu Minh",
+      "ten": "Quân"
+    },
+    {
+      "maSinhVien": "B21DCCN606",
+      "maLop": "D21CQCN06-B",
+      "ho": "Hoàng Anh",
+      "ten": "Quân"
+    },
+    {
+      "maSinhVien": "B21DCCN607",
+      "maLop": "D21CQCN07-B",
+      "ho": "Lại Bá",
+      "ten": "Quân"
+    },
+    {
+      "maSinhVien": "B21DCCN608",
+      "maLop": "D21CQCN08-B",
+      "ho": "Nghiêm Xuân",
+      "ten": "Quân"
+    },
+    {
+      "maSinhVien": "B21DCCN609",
+      "maLop": "D21CQCN09-B",
+      "ho": "Nguyễn Chí Anh",
+      "ten": "Quân"
+    },
+    {
+      "maSinhVien": "B21DCCN610",
+      "maLop": "D21CQCN10-B",
+      "ho": "Nguyễn Đình",
+      "ten": "Quân"
+    },
+    {
+      "maSinhVien": "B21DCCN611",
+      "maLop": "D21CQCN11-B",
+      "ho": "Nguyễn Minh",
+      "ten": "Quân"
+    },
+    {
+      "maSinhVien": "B21DCCN612",
+      "maLop": "D21CQCN12-B",
+      "ho": "Nguyễn Minh",
+      "ten": "Quân"
+    },
+    {
+      "maSinhVien": "B21DCCN613",
+      "maLop": "D21CQCN01-B",
+      "ho": "Nguyễn Minh",
+      "ten": "Quân"
+    },
+    {
+      "maSinhVien": "B21DCCN614",
+      "maLop": "D21CQCN02-B",
+      "ho": "Nguyễn Tài",
+      "ten": "Quân"
+    },
+    {
+      "maSinhVien": "B21DCCN615",
+      "maLop": "D21CQCN03-B",
+      "ho": "Nguyễn Văn",
+      "ten": "Quân"
+    },
+    {
+      "maSinhVien": "B21DCCN616",
+      "maLop": "D21CQCN04-B",
+      "ho": "Phan Văn Thế",
+      "ten": "Quân"
+    },
+    {
+      "maSinhVien": "B21DCCN617",
+      "maLop": "D21CQCN05-B",
+      "ho": "Vi Mạnh",
+      "ten": "Quân"
+    },
+    {
+      "maSinhVien": "B21DCCN618",
+      "maLop": "D21CQCN06-B",
+      "ho": "Vũ Anh",
+      "ten": "Quân"
+    },
+    {
+      "maSinhVien": "B21DCCN619",
+      "maLop": "D21CQCN07-B",
+      "ho": "Vũ Hồng",
+      "ten": "Quân"
+    },
+    {
+      "maSinhVien": "B21DCCN621",
+      "maLop": "D21CQCN09-B",
+      "ho": "Vũ Minh",
+      "ten": "Quân"
+    },
+    {
+      "maSinhVien": "B21DCCN622",
+      "maLop": "D21CQCN10-B",
+      "ho": "Đặng Văn",
+      "ten": "Quang"
+    },
+    {
+      "maSinhVien": "B21DCCN623",
+      "maLop": "D21CQCN11-B",
+      "ho": "Hà Ninh",
+      "ten": "Quang"
+    },
+    {
+      "maSinhVien": "B21DCCN624",
+      "maLop": "D21CQCN12-B",
+      "ho": "Lê Bá",
+      "ten": "Quang"
+    },
+    {
+      "maSinhVien": "B21DCCN625",
+      "maLop": "D21CQCN01-B",
+      "ho": "Lê Gia",
+      "ten": "Quang"
+    },
+    {
+      "maSinhVien": "B21DCCN626",
+      "maLop": "D21CQCN02-B",
+      "ho": "Lê Minh",
+      "ten": "Quang"
+    },
+    {
+      "maSinhVien": "B21DCCN627",
+      "maLop": "D21CQCN03-B",
+      "ho": "Lương Phương",
+      "ten": "Quang"
+    },
+    {
+      "maSinhVien": "B21DCCN628",
+      "maLop": "D21CQCN04-B",
+      "ho": "Nguyễn Đăng",
+      "ten": "Quang"
+    },
+    {
+      "maSinhVien": "B21DCCN629",
+      "maLop": "D21CQCN05-B",
+      "ho": "Nguyễn Minh",
+      "ten": "Quang"
+    },
+    {
+      "maSinhVien": "B21DCCN630",
+      "maLop": "D21CQCN06-B",
+      "ho": "Nguyễn Ngọc",
+      "ten": "Quang"
+    },
+    {
+      "maSinhVien": "B21DCCN631",
+      "maLop": "D21CQCN07-B",
+      "ho": "Nguyễn Văn",
+      "ten": "Quang"
+    },
+    {
+      "maSinhVien": "B21DCCN632",
+      "maLop": "D21CQCN08-B",
+      "ho": "Nguyễn Viết",
+      "ten": "Quang"
+    },
+    {
+      "maSinhVien": "B21DCCN633",
+      "maLop": "D21CQCN09-B",
+      "ho": "Trần Minh",
+      "ten": "Quang"
+    },
+    {
+      "maSinhVien": "B21DCCN634",
+      "maLop": "D21CQCN10-B",
+      "ho": "Vũ Tiến",
+      "ten": "Quang"
+    },
+    {
+      "maSinhVien": "B21DCCN635",
+      "maLop": "D21CQCN11-B",
+      "ho": "Hoàng Văn",
+      "ten": "Quý"
+    },
+    {
+      "maSinhVien": "B21DCCN636",
+      "maLop": "D21CQCN12-B",
+      "ho": "Lê Đình",
+      "ten": "Quý"
+    },
+    {
+      "maSinhVien": "B21DCCN637",
+      "maLop": "D21CQCN01-B",
+      "ho": "Nguyễn Văn",
+      "ten": "Quý"
+    },
+    {
+      "maSinhVien": "B21DCCN638",
+      "maLop": "D21CQCN02-B",
+      "ho": "Phùng Ngọc",
+      "ten": "Quý"
+    },
+    {
+      "maSinhVien": "B21DCCN639",
+      "maLop": "D21CQCN03-B",
+      "ho": "Nguyễn Thị",
+      "ten": "Quyên"
+    },
+    {
+      "maSinhVien": "B21DCCN640",
+      "maLop": "D21CQCN04-B",
+      "ho": "Vũ Văn",
+      "ten": "Quyền"
+    },
+    {
+      "maSinhVien": "B21DCCN641",
+      "maLop": "D21CQCN05-B",
+      "ho": "Bùi Hữu",
+      "ten": "Quyết"
+    },
+    {
+      "maSinhVien": "B21DCCN642",
+      "maLop": "D21CQCN06-B",
+      "ho": "Lê Duy",
+      "ten": "Quyết"
+    },
+    {
+      "maSinhVien": "B21DCCN643",
+      "maLop": "D21CQCN07-B",
+      "ho": "Trần Kiên",
+      "ten": "Quyết"
+    },
+    {
+      "maSinhVien": "B21DCCN644",
+      "maLop": "D21CQCN08-B",
+      "ho": "Đỗ Thị",
+      "ten": "Quỳnh"
+    },
+    {
+      "maSinhVien": "B21DCCN645",
+      "maLop": "D21CQCN09-B",
+      "ho": "Khúc Trọng",
+      "ten": "Quỳnh"
+    },
+    {
+      "maSinhVien": "B21DCCN646",
+      "maLop": "D21CQCN10-B",
+      "ho": "Nguyễn Đức",
+      "ten": "Quỳnh"
+    },
+    {
+      "maSinhVien": "B21DCCN647",
+      "maLop": "D21CQCN11-B",
+      "ho": "Nguyễn Thị",
+      "ten": "Quỳnh"
+    },
+    {
+      "maSinhVien": "B21DCCN648",
+      "maLop": "D21CQCN12-B",
+      "ho": "Nguyễn",
+      "ten": "Sang"
+    },
+    {
+      "maSinhVien": "B21DCCN649",
+      "maLop": "D21CQCN01-B",
+      "ho": "Bùi Trường",
+      "ten": "Sơn"
+    },
+    {
+      "maSinhVien": "B21DCCN650",
+      "maLop": "D21CQCN02-B",
+      "ho": "Cao Minh",
+      "ten": "Sơn"
+    },
+    {
+      "maSinhVien": "B21DCCN651",
+      "maLop": "D21CQCN03-B",
+      "ho": "Hoàng Thanh",
+      "ten": "Sơn"
+    },
+    {
+      "maSinhVien": "B21DCCN652",
+      "maLop": "D21CQCN04-B",
+      "ho": "Nguyễn Đình",
+      "ten": "Sơn"
+    },
+    {
+      "maSinhVien": "B21DCCN653",
+      "maLop": "D21CQCN05-B",
+      "ho": "Nguyễn Văn",
+      "ten": "Sơn"
+    },
+    {
+      "maSinhVien": "B21DCCN654",
+      "maLop": "D21CQCN06-B",
+      "ho": "Vũ Ngọc",
+      "ten": "Sơn"
+    },
+    {
+      "maSinhVien": "B21DCCN655",
+      "maLop": "D21CQCN07-B",
+      "ho": "Phan Tiến",
+      "ten": "Tài"
+    },
+    {
+      "maSinhVien": "B21DCCN656",
+      "maLop": "D21CQCN08-B",
+      "ho": "Trần Anh",
+      "ten": "Tài"
+    },
+    {
+      "maSinhVien": "B21DCCN657",
+      "maLop": "D21CQCN09-B",
+      "ho": "Lê Trí",
+      "ten": "Tâm"
+    },
+    {
+      "maSinhVien": "B21DCCN658",
+      "maLop": "D21CQCN10-B",
+      "ho": "Triệu Ngọc",
+      "ten": "Tâm"
+    },
+    {
+      "maSinhVien": "B21DCCN659",
+      "maLop": "D21CQCN11-B",
+      "ho": "Trương Văn",
+      "ten": "Tân"
+    },
+    {
+      "maSinhVien": "B21DCCN660",
+      "maLop": "D21CQCN12-B",
+      "ho": "Nguyễn Trọng",
+      "ten": "Tấn"
+    },
+    {
+      "maSinhVien": "B21DCCN661",
+      "maLop": "D21CQCN01-B",
+      "ho": "Lò Trung",
+      "ten": "Thái"
+    },
+    {
+      "maSinhVien": "B21DCCN662",
+      "maLop": "D21CQCN02-B",
+      "ho": "Phạm Thành",
+      "ten": "Thái"
+    },
+    {
+      "maSinhVien": "B21DCCN663",
+      "maLop": "D21CQCN03-B",
+      "ho": "Trần Xuân",
+      "ten": "Thái"
+    },
+    {
+      "maSinhVien": "B21DCCN664",
+      "maLop": "D21CQCN04-B",
+      "ho": "Lê Đức",
+      "ten": "Thắng"
+    },
+    {
+      "maSinhVien": "B21DCCN665",
+      "maLop": "D21CQCN05-B",
+      "ho": "Nguyễn Đức",
+      "ten": "Thắng"
+    },
+    {
+      "maSinhVien": "B21DCCN666",
+      "maLop": "D21CQCN06-B",
+      "ho": "Nguyễn Hữu",
+      "ten": "Thắng"
+    },
+    {
+      "maSinhVien": "B21DCCN667",
+      "maLop": "D21CQCN07-B",
+      "ho": "Nguyễn Hữu",
+      "ten": "Thắng"
+    },
+    {
+      "maSinhVien": "B21DCCN668",
+      "maLop": "D21CQCN08-B",
+      "ho": "Nguyễn Minh",
+      "ten": "Thắng"
+    },
+    {
+      "maSinhVien": "B21DCCN669",
+      "maLop": "D21CQCN09-B",
+      "ho": "Nguyễn Quang",
+      "ten": "Thắng"
+    },
+    {
+      "maSinhVien": "B21DCCN670",
+      "maLop": "D21CQCN10-B",
+      "ho": "Nguyễn Tiến",
+      "ten": "Thắng"
+    },
+    {
+      "maSinhVien": "B21DCCN672",
+      "maLop": "D21CQCN12-B",
+      "ho": "Phạm Ngọc",
+      "ten": "Thắng"
+    },
+    {
+      "maSinhVien": "B21DCCN674",
+      "maLop": "D21CQCN02-B",
+      "ho": "Bùi Văn",
+      "ten": "Thành"
+    },
+    {
+      "maSinhVien": "B21DCCN676",
+      "maLop": "D21CQCN04-B",
+      "ho": "Đỗ Đức",
+      "ten": "Thành"
+    },
+    {
+      "maSinhVien": "B21DCCN677",
+      "maLop": "D21CQCN05-B",
+      "ho": "Mạc Văn",
+      "ten": "Thành"
+    },
+    {
+      "maSinhVien": "B21DCCN678",
+      "maLop": "D21CQCN06-B",
+      "ho": "Nguyễn Đắc",
+      "ten": "Thành"
+    },
+    {
+      "maSinhVien": "B21DCCN679",
+      "maLop": "D21CQCN07-B",
+      "ho": "Nguyễn Tiến",
+      "ten": "Thành"
+    },
+    {
+      "maSinhVien": "B21DCCN680",
+      "maLop": "D21CQCN08-B",
+      "ho": "Nguyễn Văn",
+      "ten": "Thành"
+    },
+    {
+      "maSinhVien": "B21DCCN681",
+      "maLop": "D21CQCN09-B",
+      "ho": "Trương Công Tuấn",
+      "ten": "Thành"
+    },
+    {
+      "maSinhVien": "B21DCCN682",
+      "maLop": "D21CQCN10-B",
+      "ho": "Vũ Duy",
+      "ten": "Thành"
+    },
+    {
+      "maSinhVien": "B21DCCN683",
+      "maLop": "D21CQCN11-B",
+      "ho": "Đỗ Phương",
+      "ten": "Thảo"
+    },
+    {
+      "maSinhVien": "B21DCCN684",
+      "maLop": "D21CQCN12-B",
+      "ho": "Lưu Phương",
+      "ten": "Thảo"
+    },
+    {
+      "maSinhVien": "B21DCCN686",
+      "maLop": "D21CQCN02-B",
+      "ho": "Đỗ Đức",
+      "ten": "Thiện"
+    },
+    {
+      "maSinhVien": "B21DCCN687",
+      "maLop": "D21CQCN03-B",
+      "ho": "Lê Văn",
+      "ten": "Thiện"
+    },
+    {
+      "maSinhVien": "B21DCCN689",
+      "maLop": "D21CQCN05-B",
+      "ho": "Vũ Đình",
+      "ten": "Thiết"
+    },
+    {
+      "maSinhVien": "B21DCCN690",
+      "maLop": "D21CQCN06-B",
+      "ho": "Nguyễn Như",
+      "ten": "Thiệu"
+    },
+    {
+      "maSinhVien": "B21DCCN691",
+      "maLop": "D21CQCN07-B",
+      "ho": "Hà Cường",
+      "ten": "Thịnh"
+    },
+    {
+      "maSinhVien": "B21DCCN692",
+      "maLop": "D21CQCN08-B",
+      "ho": "Phùng Văn",
+      "ten": "Thịnh"
+    },
+    {
+      "maSinhVien": "B21DCCN693",
+      "maLop": "D21CQCN09-B",
+      "ho": "Trần Đức",
+      "ten": "Thịnh"
+    },
+    {
+      "maSinhVien": "B21DCCN694",
+      "maLop": "D21CQCN10-B",
+      "ho": "Vũ Xuân",
+      "ten": "Thịnh"
+    },
+    {
+      "maSinhVien": "B21DCCN695",
+      "maLop": "D21CQCN11-B",
+      "ho": "Đàm Công",
+      "ten": "Thoại"
+    },
+    {
+      "maSinhVien": "B21DCCN696",
+      "maLop": "D21CQCN12-B",
+      "ho": "Đào Duy",
+      "ten": "Thông"
+    },
+    {
+      "maSinhVien": "B21DCCN697",
+      "maLop": "D21CQCN01-B",
+      "ho": "Bùi Thị",
+      "ten": "Thu"
+    },
+    {
+      "maSinhVien": "B21DCCN698",
+      "maLop": "D21CQCN02-B",
+      "ho": "Nguyễn Thị Hoài",
+      "ten": "Thu"
+    },
+    {
+      "maSinhVien": "B21DCCN699",
+      "maLop": "D21CQCN03-B",
+      "ho": "Nguyễn Anh",
+      "ten": "Thư"
+    },
+    {
+      "maSinhVien": "B21DCCN700",
+      "maLop": "D21CQCN04-B",
+      "ho": "Nguyễn Xuân",
+      "ten": "Thức"
+    },
+    {
+      "maSinhVien": "B21DCCN701",
+      "maLop": "D21CQCN05-B",
+      "ho": "Lừ Thị",
+      "ten": "Thưởng"
+    },
+    {
+      "maSinhVien": "B21DCCN702",
+      "maLop": "D21CQCN06-B",
+      "ho": "Nguyễn Thị Ngọc",
+      "ten": "Thúy"
+    },
+    {
+      "maSinhVien": "B21DCCN703",
+      "maLop": "D21CQCN07-B",
+      "ho": "Thái Quân",
+      "ten": "Thụy"
+    },
+    {
+      "maSinhVien": "B21DCCN705",
+      "maLop": "D21CQCN09-B",
+      "ho": "Ngô Thế Quang",
+      "ten": "Tiến"
+    },
+    {
+      "maSinhVien": "B21DCCN706",
+      "maLop": "D21CQCN10-B",
+      "ho": "Nguyễn Văn",
+      "ten": "Tiến"
+    },
+    {
+      "maSinhVien": "B21DCCN707",
+      "maLop": "D21CQCN11-B",
+      "ho": "Phạm Đình",
+      "ten": "Tiến"
+    },
+    {
+      "maSinhVien": "B21DCCN708",
+      "maLop": "D21CQCN12-B",
+      "ho": "Phạm Văn",
+      "ten": "Tiến"
+    },
+    {
+      "maSinhVien": "B21DCCN709",
+      "maLop": "D21CQCN01-B",
+      "ho": "Trần Sỹ",
+      "ten": "Tiến"
+    },
+    {
+      "maSinhVien": "B21DCCN710",
+      "maLop": "D21CQCN02-B",
+      "ho": "Trương Vĩnh",
+      "ten": "Tiến"
+    },
+    {
+      "maSinhVien": "B21DCCN711",
+      "maLop": "D21CQCN03-B",
+      "ho": "Trần Thế",
+      "ten": "Tỏa"
+    },
+    {
+      "maSinhVien": "B21DCCN712",
+      "maLop": "D21CQCN04-B",
+      "ho": "Đinh Văn",
+      "ten": "Toàn"
+    },
+    {
+      "maSinhVien": "B21DCCN714",
+      "maLop": "D21CQCN06-B",
+      "ho": "Nguyễn Quốc",
+      "ten": "Toàn"
+    },
+    {
+      "maSinhVien": "B21DCCN715",
+      "maLop": "D21CQCN07-B",
+      "ho": "Dương Văn",
+      "ten": "Toản"
+    },
+    {
+      "maSinhVien": "B21DCCN716",
+      "maLop": "D21CQCN08-B",
+      "ho": "Kiều Linh",
+      "ten": "Trang"
+    },
+    {
+      "maSinhVien": "B21DCCN717",
+      "maLop": "D21CQCN09-B",
+      "ho": "Lại Ngọc",
+      "ten": "Trang"
+    },
+    {
+      "maSinhVien": "B21DCCN718",
+      "maLop": "D21CQCN10-B",
+      "ho": "Nguyễn Thị Kiều",
+      "ten": "Trang"
+    },
+    {
+      "maSinhVien": "B21DCCN719",
+      "maLop": "D21CQCN11-B",
+      "ho": "Phạm Thu",
+      "ten": "Trang"
+    },
+    {
+      "maSinhVien": "B21DCCN721",
+      "maLop": "D21CQCN01-B",
+      "ho": "Đào Xuân",
+      "ten": "Trí"
+    },
+    {
+      "maSinhVien": "B21DCCN722",
+      "maLop": "D21CQCN02-B",
+      "ho": "Dương Minh",
+      "ten": "Trí"
+    },
+    {
+      "maSinhVien": "B21DCCN723",
+      "maLop": "D21CQCN03-B",
+      "ho": "Hoàng Gia",
+      "ten": "Trí"
+    },
+    {
+      "maSinhVien": "B21DCCN724",
+      "maLop": "D21CQCN04-B",
+      "ho": "Nguyễn Hữu",
+      "ten": "Trinh"
+    },
+    {
+      "maSinhVien": "B21DCCN725",
+      "maLop": "D21CQCN05-B",
+      "ho": "Đỗ Hoàng",
+      "ten": "Trọng"
+    },
+    {
+      "maSinhVien": "B21DCCN726",
+      "maLop": "D21CQCN06-B",
+      "ho": "Ngọ Văn",
+      "ten": "Trọng"
+    },
+    {
+      "maSinhVien": "B21DCCN727",
+      "maLop": "D21CQCN07-B",
+      "ho": "Hà Quang",
+      "ten": "Trung"
+    },
+    {
+      "maSinhVien": "B21DCCN728",
+      "maLop": "D21CQCN08-B",
+      "ho": "Hồ Đức",
+      "ten": "Trung"
+    },
+    {
+      "maSinhVien": "B21DCCN729",
+      "maLop": "D21CQCN09-B",
+      "ho": "Hoàng Việt",
+      "ten": "Trung"
+    },
+    {
+      "maSinhVien": "B21DCCN730",
+      "maLop": "D21CQCN10-B",
+      "ho": "Lê Quốc",
+      "ten": "Trung"
+    },
+    {
+      "maSinhVien": "B21DCCN731",
+      "maLop": "D21CQCN11-B",
+      "ho": "Lê Văn",
+      "ten": "Trung"
+    },
+    {
+      "maSinhVien": "B21DCCN732",
+      "maLop": "D21CQCN12-B",
+      "ho": "Nguyễn Khắc",
+      "ten": "Trung"
+    },
+    {
+      "maSinhVien": "B21DCCN733",
+      "maLop": "D21CQCN01-B",
+      "ho": "Nguyễn Xuân",
+      "ten": "Trung"
+    },
+    {
+      "maSinhVien": "B21DCCN734",
+      "maLop": "D21CQCN02-B",
+      "ho": "Phạm Ngọc",
+      "ten": "Trung"
+    },
+    {
+      "maSinhVien": "B21DCCN736",
+      "maLop": "D21CQCN04-B",
+      "ho": "Tống Quang",
+      "ten": "Trung"
+    },
+    {
+      "maSinhVien": "B21DCCN738",
+      "maLop": "D21CQCN06-B",
+      "ho": "Đỗ Thanh",
+      "ten": "Trường"
+    },
+    {
+      "maSinhVien": "B21DCCN739",
+      "maLop": "D21CQCN07-B",
+      "ho": "Lâm Ngọc",
+      "ten": "Trường"
+    },
+    {
+      "maSinhVien": "B21DCCN740",
+      "maLop": "D21CQCN08-B",
+      "ho": "Nguyễn Trọng",
+      "ten": "Trường"
+    },
+    {
+      "maSinhVien": "B21DCCN741",
+      "maLop": "D21CQCN09-B",
+      "ho": "Phạm Anh",
+      "ten": "Trường"
+    },
+    {
+      "maSinhVien": "B21DCCN742",
+      "maLop": "D21CQCN10-B",
+      "ho": "Phan Văn",
+      "ten": "Trường"
+    },
+    {
+      "maSinhVien": "B21DCCN743",
+      "maLop": "D21CQCN11-B",
+      "ho": "Bùi Anh",
+      "ten": "Tú"
+    },
+    {
+      "maSinhVien": "B21DCCN744",
+      "maLop": "D21CQCN12-B",
+      "ho": "Hoàng Anh",
+      "ten": "Tú"
+    },
+    {
+      "maSinhVien": "B21DCCN745",
+      "maLop": "D21CQCN01-B",
+      "ho": "Lương Minh",
+      "ten": "Tú"
+    },
+    {
+      "maSinhVien": "B21DCCN746",
+      "maLop": "D21CQCN02-B",
+      "ho": "Mầu Nhân",
+      "ten": "Tú"
+    },
+    {
+      "maSinhVien": "B21DCCN747",
+      "maLop": "D21CQCN03-B",
+      "ho": "Nguyễn Anh",
+      "ten": "Tú"
+    },
+    {
+      "maSinhVien": "B21DCCN748",
+      "maLop": "D21CQCN04-B",
+      "ho": "Nguyễn Đăng Anh",
+      "ten": "Tú"
+    },
+    {
+      "maSinhVien": "B21DCCN749",
+      "maLop": "D21CQCN05-B",
+      "ho": "Nguyễn Duy",
+      "ten": "Tú"
+    },
+    {
+      "maSinhVien": "B21DCCN750",
+      "maLop": "D21CQCN06-B",
+      "ho": "Nguyễn Huy",
+      "ten": "Tú"
+    },
+    {
+      "maSinhVien": "B21DCCN752",
+      "maLop": "D21CQCN08-B",
+      "ho": "Nguyễn Thị Cẩm",
+      "ten": "Tú"
+    },
+    {
+      "maSinhVien": "B21DCCN753",
+      "maLop": "D21CQCN09-B",
+      "ho": "Phạm Văn",
+      "ten": "Tú"
+    },
+    {
+      "maSinhVien": "B21DCCN754",
+      "maLop": "D21CQCN10-B",
+      "ho": "Phan Văn",
+      "ten": "Tú"
+    },
+    {
+      "maSinhVien": "B21DCCN756",
+      "maLop": "D21CQCN12-B",
+      "ho": "Lê Anh",
+      "ten": "Tuấn"
+    },
+    {
+      "maSinhVien": "B21DCCN757",
+      "maLop": "D21CQCN01-B",
+      "ho": "Lê Văn",
+      "ten": "Tuấn"
+    },
+    {
+      "maSinhVien": "B21DCCN758",
+      "maLop": "D21CQCN02-B",
+      "ho": "Nguyễn Mạnh",
+      "ten": "Tuấn"
+    },
+    {
+      "maSinhVien": "B21DCCN759",
+      "maLop": "D21CQCN03-B",
+      "ho": "Nguyễn Minh",
+      "ten": "Tuấn"
+    },
+    {
+      "maSinhVien": "B21DCCN760",
+      "maLop": "D21CQCN04-B",
+      "ho": "Síu Hoàng",
+      "ten": "Tuấn"
+    },
+    {
+      "maSinhVien": "B21DCCN761",
+      "maLop": "D21CQCN05-B",
+      "ho": "Trần Mạnh",
+      "ten": "Tuấn"
+    },
+    {
+      "maSinhVien": "B21DCCN762",
+      "maLop": "D21CQCN06-B",
+      "ho": "Trần Thanh",
+      "ten": "Tuấn"
+    },
+    {
+      "maSinhVien": "B21DCCN763",
+      "maLop": "D21CQCN07-B",
+      "ho": "Vũ Anh",
+      "ten": "Tuấn"
+    },
+    {
+      "maSinhVien": "B21DCCN764",
+      "maLop": "D21CQCN08-B",
+      "ho": "Đào Quang",
+      "ten": "Tùng"
+    },
+    {
+      "maSinhVien": "B21DCCN765",
+      "maLop": "D21CQCN09-B",
+      "ho": "Đinh Văn",
+      "ten": "Tùng"
+    },
+    {
+      "maSinhVien": "B21DCCN766",
+      "maLop": "D21CQCN10-B",
+      "ho": "Dương Thanh",
+      "ten": "Tùng"
+    },
+    {
+      "maSinhVien": "B21DCCN767",
+      "maLop": "D21CQCN11-B",
+      "ho": "Mai Quý",
+      "ten": "Tùng"
+    },
+    {
+      "maSinhVien": "B21DCCN768",
+      "maLop": "D21CQCN12-B",
+      "ho": "Nguyễn Minh",
+      "ten": "Tùng"
+    },
+    {
+      "maSinhVien": "B21DCCN769",
+      "maLop": "D21CQCN01-B",
+      "ho": "Nguyễn Ngọc Hoàng",
+      "ten": "Tùng"
+    },
+    {
+      "maSinhVien": "B21DCCN770",
+      "maLop": "D21CQCN02-B",
+      "ho": "Nguyễn Thanh",
+      "ten": "Tùng"
+    },
+    {
+      "maSinhVien": "B21DCCN771",
+      "maLop": "D21CQCN03-B",
+      "ho": "Nguyễn Thanh",
+      "ten": "Tùng"
+    },
+    {
+      "maSinhVien": "B21DCCN772",
+      "maLop": "D21CQCN04-B",
+      "ho": "Nguyễn Xuân",
+      "ten": "Tùng"
+    },
+    {
+      "maSinhVien": "B21DCCN774",
+      "maLop": "D21CQCN06-B",
+      "ho": "Phạm Việt",
+      "ten": "Tùng"
+    },
+    {
+      "maSinhVien": "B21DCCN775",
+      "maLop": "D21CQCN07-B",
+      "ho": "Phan Thanh",
+      "ten": "Tùng"
+    },
+    {
+      "maSinhVien": "B21DCCN776",
+      "maLop": "D21CQCN08-B",
+      "ho": "Phùng Bá",
+      "ten": "Tùng"
+    },
+    {
+      "maSinhVien": "B21DCCN777",
+      "maLop": "D21CQCN09-B",
+      "ho": "Trương Hoàng",
+      "ten": "Tùng"
+    },
+    {
+      "maSinhVien": "B21DCCN778",
+      "maLop": "D21CQCN10-B",
+      "ho": "Vũ Xuân",
+      "ten": "Tùng"
+    },
+    {
+      "maSinhVien": "B21DCCN779",
+      "maLop": "D21CQCN11-B",
+      "ho": "Vũ Hồng",
+      "ten": "Tuyên"
+    },
+    {
+      "maSinhVien": "B21DCCN780",
+      "maLop": "D21CQCN12-B",
+      "ho": "Vũ Thành",
+      "ten": "Tuyên"
+    },
+    {
+      "maSinhVien": "B21DCCN781",
+      "maLop": "D21CQCN01-B",
+      "ho": "Vi Quốc",
+      "ten": "Uy"
+    },
+    {
+      "maSinhVien": "B21DCCN783",
+      "maLop": "D21CQCN03-B",
+      "ho": "Nguyễn Anh",
+      "ten": "Văn"
+    },
+    {
+      "maSinhVien": "B21DCCN784",
+      "maLop": "D21CQCN04-B",
+      "ho": "Nguyễn Đình",
+      "ten": "Văn"
+    },
+    {
+      "maSinhVien": "B21DCCN785",
+      "maLop": "D21CQCN05-B",
+      "ho": "Nguyễn Viết",
+      "ten": "Văn"
+    },
+    {
+      "maSinhVien": "B21DCCN786",
+      "maLop": "D21CQCN06-B",
+      "ho": "Lê Ngọc Thảo",
+      "ten": "Vân"
+    },
+    {
+      "maSinhVien": "B21DCCN787",
+      "maLop": "D21CQCN07-B",
+      "ho": "An Quốc",
+      "ten": "Việt"
+    },
+    {
+      "maSinhVien": "B21DCCN788",
+      "maLop": "D21CQCN08-B",
+      "ho": "Đinh Quốc",
+      "ten": "Việt"
+    },
+    {
+      "maSinhVien": "B21DCCN789",
+      "maLop": "D21CQCN09-B",
+      "ho": "Ngô Quốc",
+      "ten": "Việt"
+    },
+    {
+      "maSinhVien": "B21DCCN790",
+      "maLop": "D21CQCN10-B",
+      "ho": "Nguyễn Quốc",
+      "ten": "Việt"
+    },
+    {
+      "maSinhVien": "B21DCCN791",
+      "maLop": "D21CQCN11-B",
+      "ho": "Trần Trọng",
+      "ten": "Việt"
+    },
+    {
+      "maSinhVien": "B21DCCN792",
+      "maLop": "D21CQCN12-B",
+      "ho": "Trương Thế",
+      "ten": "Việt"
+    },
+    {
+      "maSinhVien": "B21DCCN793",
+      "maLop": "D21CQCN01-B",
+      "ho": "Trần Quang",
+      "ten": "Vinh"
+    },
+    {
+      "maSinhVien": "B21DCCN794",
+      "maLop": "D21CQCN02-B",
+      "ho": "Doanh Văn",
+      "ten": "Vũ"
+    },
+    {
+      "maSinhVien": "B21DCCN795",
+      "maLop": "D21CQCN03-B",
+      "ho": "Hoàng Anh",
+      "ten": "Vũ"
+    },
+    {
+      "maSinhVien": "B21DCCN796",
+      "maLop": "D21CQCN04-B",
+      "ho": "Lâm Văn",
+      "ten": "Vũ"
+    },
+    {
+      "maSinhVien": "B21DCCN797",
+      "maLop": "D21CQCN05-B",
+      "ho": "Lê Minh",
+      "ten": "Vũ"
+    },
+    {
+      "maSinhVien": "B21DCCN799",
+      "maLop": "D21CQCN07-B",
+      "ho": "Nguyễn Trọng",
+      "ten": "Vũ"
+    },
+    {
+      "maSinhVien": "B21DCCN800",
+      "maLop": "D21CQCN08-B",
+      "ho": "Trần Hoàng Tuấn",
+      "ten": "Vũ"
+    },
+    {
+      "maSinhVien": "B21DCCN801",
+      "maLop": "D21CQCN09-B",
+      "ho": "Hoàng Gia",
+      "ten": "Vương"
+    },
+    {
+      "maSinhVien": "B21DCCN802",
+      "maLop": "D21CQCN10-B",
+      "ho": "Lê Minh",
+      "ten": "Vương"
+    },
+    {
+      "maSinhVien": "B21DCCN803",
+      "maLop": "D21CQCN11-B",
+      "ho": "Nguyễn Minh",
+      "ten": "Vương"
+    },
+    {
+      "maSinhVien": "B21DCCN804",
+      "maLop": "D21CQCN12-B",
+      "ho": "Nguyễn Quốc",
+      "ten": "Vương"
+    },
+    {
+      "maSinhVien": "B21DCCN805",
+      "maLop": "D21CQCN01-B",
+      "ho": "Đặng Thanh",
+      "ten": "Xuân"
+    },
+    {
+      "maSinhVien": "B21DCCN806",
+      "maLop": "D21CQCN02-B",
+      "ho": "Ngô Thị",
+      "ten": "Xuân"
+    },
+    {
+      "maSinhVien": "B21DCCN807",
+      "maLop": "D21CQCN03-B",
+      "ho": "Vi Thanh",
+      "ten": "Xuân"
+    },
+    {
+      "maSinhVien": "B21DCCN808",
+      "maLop": "D21CQCN04-B",
+      "ho": "Bùi Thị",
+      "ten": "Xuyến"
+    },
+    {
+      "maSinhVien": "B21DCCN809",
+      "maLop": "D21CQCN05-B",
+      "ho": "Lương Ngọc",
+      "ten": "Yên"
+    },
+    {
+      "maSinhVien": "B21DCCN810",
+      "maLop": "D21CQCN06-B",
+      "ho": "Tạ Kiều",
+      "ten": "Yến"
+    },
+    {
+      "maSinhVien": "B21DCCN811",
+      "maLop": "D21CQCN07-B",
+      "ho": "Nguyễn Quý",
+      "ten": "Đức"
+    },
+    {
+      "maSinhVien": "B21DCCN813",
+      "maLop": "D21CQCN01-B",
+      "ho": "Thanousone",
+      "ten": "Senesombath"
+    },
+    {
+      "maSinhVien": "B21DCCN814",
+      "maLop": "D21CQCN01-B",
+      "ho": "Bandith",
+      "ten": "Xayachak"
+    },
+    {
+      "maSinhVien": "B21DCCN815",
+      "maLop": "D21CQCN01-B",
+      "ho": "Louksone",
+      "ten": "Sihalath"
+    },
+    {
+      "maSinhVien": "B21DCCN816",
+      "maLop": "D21CQCN01-B",
+      "ho": "Manivan",
+      "ten": "Xaiphanith"
+    },
+    {
+      "maSinhVien": "B21DCCN817",
+      "maLop": "D21CQCN01-B",
+      "ho": "Vilapasith",
+      "ten": "Sisomdeth"
+    },
+    {
+      "maSinhVien": "B21DCCN818",
+      "maLop": "D21CQCN09-B",
+      "ho": "Nguyễn Thị",
+      "ten": "Lan"
+    },
+    {
+      "maSinhVien": "B21DCCN819",
+      "maLop": "D21CQCN10-B",
+      "ho": "Bùi Ngọc Minh",
+      "ten": "Quân"
+    },
+    {
+      "maSinhVien": "B21DCCN820",
+      "maLop": "D21CQCN11-B",
+      "ho": "Nguyễn Thị Thủy",
+      "ten": "Tiên"
+    },
+    {
+      "maSinhVien": "B21DCCN821",
+      "maLop": "D21CQCN01-B",
+      "ho": "Nguyễn Danh",
+      "ten": "Hà"
+    }
+  ]

@@ -2,8 +2,8 @@ const UserModel = require('../Model/modelUser')
 
 const createUser = async(req,res) => {
     try {
-        const { name, userName, password,email,role} = req.body
-        const data = new UserModel({ name, userName, password,email, role})
+        const { maSinhVien, maLop, ho,ten} = req.body
+        const data = new UserModel({ maSinhVien, maLop, ho,ten})
         data.save(data)
         return data
     } catch (error) {

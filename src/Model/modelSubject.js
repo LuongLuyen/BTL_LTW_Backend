@@ -1,19 +1,15 @@
 const mongoose =require("mongoose")
 
 const Schema = new mongoose.Schema({
-    maSinhVien:{
+    maMonHoc:{
         type:String,
         required:true
     },
-    maLop:{
+    tenMonHoc:{
         type:String,
         required:true
     },
-    ho:{
-        type:String,
-        required:true
-    },
-    ten:{
+    soTin:{
         type:String,
         required:true
     }
@@ -21,4 +17,4 @@ const Schema = new mongoose.Schema({
 
 )
 
-module.exports= mongoose.model("User", Schema)
+module.exports= mongoose.model("Subject", Schema)

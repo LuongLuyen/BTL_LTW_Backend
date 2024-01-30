@@ -4,7 +4,7 @@ require('dotenv').config()
 mongoose.set("strictQuery", true)
 const connectMongoDB = async () => {
 	try {
-        const uri =`mongodb+srv://${process.env.USERNAME__DB}:${process.env.PASSWORD__DB}@cluster0.34dqtod.mongodb.net/?retryWrites=true&w=majority`
+        const uri =`mongodb+srv://${process.env.USERNAME__DB}:${process.env.PASSWORD__DB}@cluster0.ng1h69d.mongodb.net/?retryWrites=true&w=majority`
 		await mongoose.connect(
 			uri,
 		)
@@ -14,6 +14,7 @@ const connectMongoDB = async () => {
 		process.exit(1)
 	}
 }
+
 module.exports = {
-    connectMongoDB: connectMongoDB,
+    connectMongoDB: connectMongoDB
 }
