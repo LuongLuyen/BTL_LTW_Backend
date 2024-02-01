@@ -19,10 +19,15 @@ const findOneUser = async (req, res) => {
     const data = await ApiService.findOneUser(req,res)
     return res.json(data)
 }
+const findPointUser = async (req, res) => {
+    const data = await ApiService.findPointUser(req,res)
+    return res.json(data)
+}
 module.exports = {
     findAllUser: findAllUser,
     cretaeUser: cretaeUser,
     deleteUser:deleteUser,
     updateUser:updateUser,
     findOneUser:findOneUser,
+    findPointUser:findPointUser,
 }
