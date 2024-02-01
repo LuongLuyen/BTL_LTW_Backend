@@ -15,9 +15,14 @@ const updateUser = async (req, res) => {
     const data = await ApiService.updateUser(req,res)
     return res.json(data)
 }
+const findOneUser = async (req, res) => {
+    const data = await ApiService.findOneUser(req,res)
+    return res.json(data)
+}
 module.exports = {
     findAllUser: findAllUser,
     cretaeUser: cretaeUser,
     deleteUser:deleteUser,
     updateUser:updateUser,
+    findOneUser:findOneUser,
 }

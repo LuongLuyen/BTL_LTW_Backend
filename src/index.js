@@ -1,4 +1,5 @@
 const express  = require("express")
+const cors = require('cors')
 const app = express()
 const path = require("path")
 const PORT = process.env.PORT || 5000
@@ -9,14 +10,8 @@ app.use(express.urlencoded({extended: true}))
 app.use(express.json())
 app.set('view engine', 'ejs')
 app.set('views', path.join(__dirname, 'views'))
+app.use(cors()) 
 
-app.use(function (req, res, next) { 
-    res.setHeader('Access-Control-Allow-Origin', "*")
-    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE')
-    res.setHeader('Access-Control-Allow-Headers', 'X-Requested-With,content-type')
-    res.setHeader('Access-Control-Allow-Credentials', true)
-    next()
-})
 connection.connectMongoDB()
 
 app.use('/public', express.static(path.join(__dirname, '/public')))

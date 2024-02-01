@@ -38,6 +38,15 @@ const findAllUser = async(req,res) => {
         return error
     }
 }
+const findOneUser = async(req,res) => {
+    const {ho, ten, password} = req.body
+    try {
+        const data= await UserModel.findOne({ho:ho,ten:ten,maSinhVien:password})
+        return data
+    } catch (error) {
+        return error
+    }
+}
 
 
 module.exports = {
@@ -45,4 +54,5 @@ module.exports = {
     updateUser: updateUser,
     deleteUser: deleteUser,
     findAllUser: findAllUser,
+    findOneUser: findOneUser,
 }
