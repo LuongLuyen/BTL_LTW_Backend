@@ -97,9 +97,9 @@ const findPointUser = async(req,res)=>{
         return error
     }
 }
-const findAllSubject = async(req,res)=>{
+const findByCodeUser = async(req,res) => {
     try {
-        const data= await SubjectModel.find()
+        const data= await UserModel.findOne({maSinhVien:req.body.maSV})
         return data
     } catch (error) {
         return error
@@ -113,5 +113,6 @@ module.exports = {
     deleteUser: deleteUser,
     findAllUser: findAllUser,
     findOneUser: findOneUser,
-    findPointUser: findPointUser
+    findPointUser: findPointUser,
+    findByCodeUser:findByCodeUser,
 }

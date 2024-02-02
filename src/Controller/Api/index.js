@@ -19,6 +19,10 @@ const findOneUser = async (req, res) => {
     const data = await ApiService.findOneUser(req,res)
     return res.json(data)
 }
+const findByCodeUser = async (req, res) => {
+    const data = await ApiService.findByCodeUser(req,res)
+    return res.json(data)
+}
 const findPointUser = async (req, res) => {
     const data = await ApiService.findPointUser(req,res)
     return res.json(data)
@@ -30,4 +34,5 @@ module.exports = {
     updateUser:updateUser,
     findOneUser:findOneUser,
     findPointUser:findPointUser,
+    findByCodeUser:findByCodeUser,
 }
