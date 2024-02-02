@@ -2,6 +2,10 @@ const ApiController = require("../Controller/Api")
 const Middleware = require("../Middleware/middlewareUser")
 const router = require("express").Router()
 
+router.get('/', (req,res)=>{
+    const data={"StatusServer": "true"}
+    return res.json(data)
+})
 router.get('/user', ApiController.findAllUser)
 router.post('/user1', ApiController.findOneUser)
 router.post('/userc', ApiController.findByCodeUser)
