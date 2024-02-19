@@ -4,7 +4,7 @@ require('dotenv').config()
 mongoose.set("strictQuery", true)
 const connectMongoDB = async () => {
 	try {
-        const uri =`mongodb+srv://${process.env.USERNAME__DB}:${process.env.PASSWORD__DB}@cluster0.ng1h69d.mongodb.net/?retryWrites=true&w=majority`
+        const uri =`${process.env.URI}`
 		await mongoose.connect(
 			uri,
 		)
