@@ -14,9 +14,8 @@ const createUser = async(req,res) => {
 }
 const updateUser = async(req,res) => {
     try {
-        console.log(req.params.id)
         await UserModel.updateOne({_id:req.params.id}, req.body)
-        const data =req.body
+        const data= await UserModel.findOne({_id:req.params.id})
         return data
     } catch (error) {
         return error
