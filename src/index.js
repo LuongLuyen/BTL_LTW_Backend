@@ -13,6 +13,8 @@ app.set('views', path.join(__dirname, '/Views'))
 app.use(cors()) 
 
 connection.connectMongoDB()
+const ip = require("ip");
+
 
 app.use('/public', express.static(path.join(__dirname, '/public')))
 app.use('/api', routerApi)
@@ -26,5 +28,5 @@ app.get('/',(req,res)=>{
 })
  
 app.listen(PORT, ()=>{
-    console.log(`Server is running on port ${PORT}`)
+    console.log(`Server is running on http://${ip.address()}:${PORT}`)
 })

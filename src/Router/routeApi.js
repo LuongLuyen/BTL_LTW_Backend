@@ -7,6 +7,8 @@ router.get('/', (req,res)=>{
     return res.json(data)
 })
 router.get('/user', ApiController.findAllUser)
+router.get('/diem/:maMon', ApiController.findDiemMon)
+router.get('/user/:maLop', ApiController.findUserLop)
 router.post('/user-one', ApiController.findOneUser)
 router.post('/user-code', ApiController.findByCodeUser)
 router.put('/user/:id', ApiController.updateUser)

@@ -39,6 +39,22 @@ const findAllUser = async(req,res) => {
         return error
     }
 }
+const findDiemMon = async(req,res) => {
+    try {
+        const data= await PointModel.find({maMonHoc:req.params.maMon})
+        return data
+    } catch (error) {
+        return error
+    }
+}
+const findUserLop = async(req,res) => {
+    try {
+        const data= await UserModel.find({maLop:req.params.maLop})
+        return data
+    } catch (error) {
+        return error
+    }
+}
 const findOneUser = async(req,res) => {
     const {ho, ten, password} = req.body
     try {
@@ -114,4 +130,6 @@ module.exports = {
     findOneUser: findOneUser,
     findPointUser: findPointUser,
     findByCodeUser:findByCodeUser,
+    findDiemMon:findDiemMon,
+    findUserLop:findUserLop,
 }
