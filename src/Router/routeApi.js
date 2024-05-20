@@ -13,7 +13,7 @@ router.post('/user-one', ApiController.findOneUser)
 router.post('/user-code', ApiController.findByCodeUser)
 router.put('/user/:id', ApiController.updateUser)
 router.post('/user', ApiController.cretaeUser)
-router.delete('/user/:id',Middleware.checkAdmin, ApiController.deleteUser)
+router.delete('/user/:id',ApiController.deleteUser)
 
 router.post('/point',ApiController.findPointUser)
 
